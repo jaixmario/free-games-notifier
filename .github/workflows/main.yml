@@ -31,6 +31,13 @@ jobs:
           TO_EMAIL: ${{ secrets.TO_EMAIL }}
         run: python MAIN.PY
 
+      - name: 🚀 Run script
+        env:
+          EMAIL: ${{ secrets.EMAIL }}
+          PASSWORD: ${{ secrets.PASSWORD }}
+          TO_EMAIL: ${{ secrets.TO_EMAIL }}
+        run: python steam.py        
+
       # ✅ Commit & push free.txt if changed
       - name: 📁 Commit & Push free.txt
         run: |
@@ -44,3 +51,16 @@ jobs:
             git commit -m "🔄 Update free games data"
             git push
           )
+
+      - name: 📁 Commit & Push free-steam.txt
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git add free-steam.txt
+
+          # check if there is a change
+          git diff --cached --quiet || (
+            git commit -m "🔄 Update free games data"
+            git push
+          )          
