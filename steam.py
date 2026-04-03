@@ -14,8 +14,7 @@ TO_EMAIL = os.getenv("TO_EMAIL")
 STATE_FILE = "free-steam.txt"
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0",
-    "Accept-Language": "en-US,en;q=0.9"
+    "User-Agent": "Mozilla/5.0"
 }
 # ==========================================
 
@@ -36,6 +35,7 @@ def get_free_to_claim():
         title = game.find("span", class_="title")
         price = game.find("div", class_="discount_final_price")
         discount = game.find("div", class_="discount_pct")
+        image = game.find("img")
 
         if title:
             price_text = price.text.strip() if price else ""
@@ -45,7 +45,9 @@ def get_free_to_claim():
                 games.append({
                     "type": "Free to Keep",
                     "title": title.text.strip(),
-                    "link": game.get("href")
+                    "link": game.get("href"),
+                    "image": image["src"] if image else "",
+                    "time": "⏳ Limited Time Offer"
                 })
 
     return games
@@ -68,82 +70,78 @@ def get_free_weekend():
             for item in section["items"]:
                 name = item.get("name", "").lower()
                 body = item.get("body", "").lower()
-                link = item.get("url", "")
 
                 if "free weekend" in name or "play for free" in body:
                     games.append({
                         "type": "Free Weekend",
                         "title": item.get("name"),
-                        "link": link
+                        "link": item.get("url"),
+                        "image": item.get("header_image", ""),
+                        "time": "⏳ Ends Soon (Free Weekend)"
                     })
 
     return games
 
 
 # -----------------------------
-# COMBINE
+# FETCH
 # -----------------------------
 def fetch_games():
-    games = []
-    games += get_free_to_claim()
-    games += get_free_weekend()
-    return games
+    return get_free_to_claim() + get_free_weekend()
 
 
 # -----------------------------
 # CHANGE DETECTION
 # -----------------------------
 def generate_signature(games):
-    titles = sorted([g["title"] for g in games])
-    return ",".join(titles)
+    return ",".join(sorted([g["title"] for g in games]))
 
 
-def has_changed(signature):
+def has_changed(sig):
     if not os.path.exists(STATE_FILE):
         return True
 
     with open(STATE_FILE, "r", encoding="utf-8") as f:
-        old = f.read().strip()
-
-    return old != signature
+        return f.read().strip() != sig
 
 
-def save_signature(signature):
+def save_signature(sig):
     with open(STATE_FILE, "w", encoding="utf-8") as f:
-        f.write(signature)
+        f.write(sig)
 
 
 # -----------------------------
-# HTML EMAIL UI
+# HTML UI
 # -----------------------------
 def build_html(games):
+    cards = ""
 
-    def game_cards(games):
-        cards = ""
-        for g in games:
-            btn_color = "#22c55e" if g["type"] == "Free to Keep" else "#3b82f6"
+    for g in games:
+        color = "#22c55e" if g["type"] == "Free to Keep" else "#3b82f6"
 
-            cards += f"""
-            <div style="background:#1e293b;border-radius:15px;padding:20px;margin-bottom:25px;">
-                
-                <h2 style="color:white;text-align:center;">{g['title']}</h2>
+        cards += f"""
+        <div style="background:#1e293b;border-radius:15px;padding:20px;margin-bottom:25px;">
+            
+            <h2 style="color:white;text-align:center;">{g['title']}</h2>
 
-                <p style="text-align:center;color:#94a3b8;">
-                    🎯 {g['type']}
-                </p>
+            <img src="{g['image']}" style="width:100%;border-radius:12px;">
 
-                <div style="text-align:center;margin-top:15px;">
-                    <a href="{g['link']}" 
-                       style="display:inline-block;background:{btn_color};
-                       color:white;padding:12px 25px;border-radius:8px;
-                       text-decoration:none;font-weight:bold;">
-                        🎮 Open in Steam
-                    </a>
-                </div>
+            <p style="text-align:center;color:#cbd5f5;margin-top:10px;">
+                🎯 {g['type']}<br>
+                {g['time']}
+            </p>
 
+            <div style="text-align:center;margin-top:15px;">
+                <a href="{g['link']}" 
+                   style="display:inline-block;background:{color};
+                   color:white;padding:12px 25px;border-radius:8px;
+                   text-decoration:none;font-weight:bold;">
+                    🎮 Open in Steam
+                </a>
             </div>
-            """
-        return cards
+
+        </div>
+        """
 
     html = f"""
     <html>
@@ -153,7 +151,7 @@ def build_html(games):
             🎮 Steam Free Games
         </h1>
 
-        {game_cards(games) if games else "<p style='color:white;text-align:center;'>No free games right now</p>"}
+        {cards if cards else "<p style='color:white;text-align:center;'>No free games</p>"}
 
         <p style="color:gray;text-align:center;margin-top:40px;">
             Auto Steam Notifier ⚡
@@ -167,7 +165,7 @@ def build_html(games):
 
 
 # -----------------------------
-# SEND EMAIL
+# EMAIL
 # -----------------------------
 def send_email(subject, html):
     msg = MIMEMultipart("alternative")
@@ -188,21 +186,17 @@ def send_email(subject, html):
 # -----------------------------
 if __name__ == "__main__":
     games = fetch_games()
+    sig = generate_signature(games)
 
-    signature = generate_signature(games)
-
-    if not has_changed(signature):
-        print("⏸ No changes. Email not sent.")
+    if not has_changed(sig):
+        print("⏸ No changes")
     else:
-        print("🚀 New Steam free games detected!")
+        print("🚀 New update!")
 
-        titles = ", ".join([g["title"] for g in games]) or "None"
-
-        subject = f"🔥 Steam Free Games: {titles}"
+        subject = "🔥 Steam Free Games Update"
         html = build_html(games)
 
         send_email(subject, html)
+        save_signature(sig)
 
-        save_signature(signature)
-
-        print("✅ Email sent & state saved.")
+        print("✅ Email sent")
