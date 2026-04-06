@@ -10,14 +10,15 @@ Automatically tracks Epic Games and Steam free game offers, sends HTML email ale
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **06 Apr 2026, 10:24 PM IST**  
+Last updated: **06 Apr 2026, 10:28 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- No Epic Games freebies found.
+- **Clone Drone in the Danger Zone** - free until `09 Apr 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/4d7e959581394dc4aee2039844753beb))
+- **TOMAK: Save the Earth Regeneration** - free until `16 Apr 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/798328bff911452783523d61986170c0))
 
 ### Upcoming on Epic
-- No upcoming Epic Games reveals right now.
+- **Prop Sumo** - starts `09 Apr 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/67a9bcbc6b8e411e9265afb380fea91f))
 
 ### Steam
 - **Depths Of Horror: Mushroom Day** - Free to Keep ([Open](https://store.steampowered.com/app/1590840/Depths_Of_Horror_Mushroom_Day/?snr=1_7_7_2300_150_1))
