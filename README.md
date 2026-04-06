@@ -1,131 +1,131 @@
-# 🎮 Free Games Auto Notifier
+# Free Games Auto Notifier
 
-> Automatically tracks **Epic Games** and **Steam** free game offers and sends you a beautiful HTML email notification whenever new free games appear — powered by GitHub Actions.
+Automatically tracks Epic Games and Steam free game offers, sends HTML email alerts, and keeps this README updated with the latest free games on every workflow run.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automated-success?logo=github-actions&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Schedule](https://img.shields.io/badge/Runs%20Every-6%20Hours-orange?logo=clockify&logoColor=white)
 
+<!-- README_AUTO_SECTION:START -->
+## Free Games Right Now
+
+Last updated: **06 Apr 2026, 10:24 PM IST**  
+Source: Epic fallback from saved state, Steam live data
+
+### Epic Games
+- No Epic Games freebies found.
+
+### Upcoming on Epic
+- No upcoming Epic Games reveals right now.
+
+### Steam
+- **Depths Of Horror: Mushroom Day** - Free to Keep ([Open](https://store.steampowered.com/app/1590840/Depths_Of_Horror_Mushroom_Day/?snr=1_7_7_2300_150_1))
+- **House Flipper** - Free to Keep ([Open](https://store.steampowered.com/app/613100/House_Flipper/?snr=1_7_7_2300_150_1))
+- **Subnautica** - Free Weekend ([Open](https://store.steampowered.com/app/264710))
+<!-- README_AUTO_SECTION:END -->
+
 ---
 
-## ✨ Features
+## Features
 
-- 🛒 **Epic Games** — Fetches currently free + upcoming free games via the official API
-- 🎮 **Steam** — Scrapes "Free to Keep" deals and "Free Weekend" events
-- 📧 **Rich HTML Email** — Dark-themed, card-style email with game images, dates, and claim links
-- 🧠 **Smart Change Detection** — Only sends an email when the game lineup actually changes (no spam!)
-- 🤖 **Fully Automated** — Runs every 6 hours via GitHub Actions, zero manual effort
-- 🔒 **Secure** — Credentials stored as GitHub Secrets, never hardcoded
+- Epic Games support for current and upcoming free promotions
+- Steam support for free-to-keep deals and free weekend events
+- HTML email notifications with images, dates, and direct links
+- Change detection to avoid duplicate emails
+- Automatic README refresh on every scheduled workflow run
+- GitHub Actions automation every 6 hours
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
+```text
+free-games-notifier/
+|-- epic.PY
+|-- steam.py
+|-- generate_readme.py
+|-- free.txt
+|-- free-steam.txt
+`-- .github/
+    `-- workflows/
+        `-- main.yml
 ```
-📦 free-games-notifier/
-├── epic.PY          # Epic Games notifier — fetches API, builds email, sends notification
-├── steam.py         # Steam notifier — scrapes store, detects free games, sends notification
-├── free.txt         # State file: stores last known Epic Games lineup (auto-updated by CI)
-├── free-steam.txt   # State file: stores last known Steam lineup (auto-updated by CI)
-└── .github/
-    └── workflows/
-        └── main.yml # GitHub Actions workflow — runs both scripts every 6 hours
-```
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 1. Fork or Clone this Repository
+### 1. Clone the repository
 
 ```bash
 git clone https://github.com/your-username/free-games-notifier.git
 cd free-games-notifier
 ```
 
-### 2. Install Dependencies Locally (Optional)
+### 2. Install dependencies
 
 ```bash
 pip install requests beautifulsoup4
 ```
 
-### 3. Configure GitHub Secrets
+### 3. Add GitHub secrets
 
-Go to **Settings → Secrets and variables → Actions → New repository secret** and add:
+Create these repository secrets in `Settings -> Secrets and variables -> Actions`:
 
 | Secret Name | Description |
 |-------------|-------------|
-| `EMAIL` | Your Gmail address (sender) |
-| `PASSWORD` | Your Gmail **App Password** (not your login password) |
-| `TO_EMAIL` | The email address to receive notifications |
+| `EMAIL` | Sender Gmail address |
+| `PASSWORD` | Gmail App Password |
+| `TO_EMAIL` | Recipient email address |
 
-> **⚠️ Important:** You must use a [Gmail App Password](https://support.google.com/accounts/answer/185833), not your regular Gmail password. Enable 2-Step Verification first, then generate an App Password under Security settings.
-
----
-
-## 🔧 How It Works
-
-### Epic Games (`epic.PY`)
-
-1. Calls the Epic Games Store promotions API
-2. Parses currently free and upcoming free games
-3. Converts all dates to **IST (Indian Standard Time)**
-4. Generates a signature of current game titles
-5. Compares against `free.txt` — if changed, sends an email and updates the state file
-
-### Steam (`steam.py`)
-
-1. Scrapes Steam's search page for `Free to Keep` deals (100% discounted)
-2. Also checks Steam's featured categories API for `Free Weekend` events
-3. Generates a signature of all found game titles
-4. Compares against `free-steam.txt` — sends email only on changes
-
-### Email Format
-
-Both scripts send a beautifully formatted dark-mode HTML email containing:
-- 🖼️ Game banner image
-- 🎮 Game title with a direct link
-- 📅 Start and end dates (IST)
-- ✅ "Claim Now" / "Open in Steam" button
+Use a Gmail App Password, not your normal account password.
 
 ---
 
-## ⚙️ GitHub Actions Workflow
+## How It Works
 
-The workflow runs automatically:
+### `epic.PY`
 
-| Trigger | Details |
-|---------|---------|
-| ⏰ Schedule | Every **6 hours** (`0 */6 * * *`) |
-| 🖱️ Manual | Via **workflow_dispatch** (run anytime from the Actions tab) |
+1. Calls the Epic Games promotions API.
+2. Extracts current and upcoming free games.
+3. Formats dates in IST.
+4. Compares the latest titles with `free.txt`.
+5. Sends an email only when the lineup changes.
 
-**Steps:**
-1. Checks out the repository
-2. Sets up Python 3.11
-3. Installs `requests` and `beautifulsoup4`
-4. Runs `epic.PY` with email secrets injected
-5. Runs `steam.py` with email secrets injected
-6. Commits and pushes updated state files (`free.txt`, `free-steam.txt`) if changed
+### `steam.py`
+
+1. Scrapes Steam search results for discounted free offers.
+2. Checks Steam featured categories for free weekend events.
+3. Compares the latest titles with `free-steam.txt`.
+4. Sends an email only when the lineup changes.
+
+### `generate_readme.py`
+
+1. Fetches the latest Epic and Steam game data.
+2. Rebuilds the auto-managed section at the top of this README.
+3. Falls back to saved state files if a live fetch fails.
 
 ---
 
-## 🏃 Running Manually
+## GitHub Actions Workflow
 
-```bash
-# Set environment variables
-export EMAIL="you@gmail.com"
-export PASSWORD="your-app-password"
-export TO_EMAIL="recipient@example.com"
+The workflow runs on:
 
-# Run Epic Games notifier
-python epic.PY
+- Schedule: every 6 hours with `0 */6 * * *`
+- Manual trigger: `workflow_dispatch`
 
-# Run Steam notifier
-python steam.py
-```
+Each run:
 
-On Windows (PowerShell):
+1. Installs dependencies.
+2. Runs `epic.PY`.
+3. Runs `steam.py`.
+4. Runs `generate_readme.py`.
+5. Commits updated state files and `README.md` if anything changed.
+
+---
+
+## Run Manually
 
 ```powershell
 $env:EMAIL="you@gmail.com"
@@ -134,38 +134,19 @@ $env:TO_EMAIL="recipient@example.com"
 
 python epic.PY
 python steam.py
+python generate_readme.py
 ```
 
 ---
 
-## 📦 Dependencies
+## Security Notes
 
-| Package | Used By | Purpose |
-|---------|---------|---------|
-| `requests` | Both scripts | HTTP API calls & web scraping |
-| `beautifulsoup4` | `steam.py` | HTML parsing for Steam store page |
-| `smtplib` | Both scripts | Sending emails via Gmail SMTP |
+- Credentials are never committed to the repository.
+- Secrets are injected at runtime through GitHub Actions.
+- State files only store game-title signatures.
 
 ---
 
-## 🛡️ Security Notes
-
-- Credentials are **never** stored in the repository
-- All sensitive values are injected at runtime via [GitHub Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets)
-- State files (`free.txt`, `free-steam.txt`) are committed by the GitHub Actions bot — they contain only game titles, no personal data
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! If you'd like to add support for another platform (GOG, Humble Bundle, etc.), feel free to open an issue or submit a PR.
-
----
-
-## 📄 License
+## License
 
 This project is open source and available under the [MIT License](LICENSE).
-
----
-
-<p align="center">Made with ❤️ and automated with 🤖 GitHub Actions</p>
