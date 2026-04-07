@@ -1,0 +1,6 @@
+{
+  "notifications": {
+    "email": true, 
+    "telegram": true
+  }
+}

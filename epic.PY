@@ -17,6 +17,36 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 API_URL = "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=en-US"
 STATE_FILE = "free.json"
 LEGACY_STATE_FILE = "free.txt"
+CONFIG_FILE = "config.json"
+
+
+def load_config():
+    default_config = {
+        "notifications": {
+            "email": True,
+            "telegram": True,
+        }
+    }
+
+    if not os.path.exists(CONFIG_FILE):
+        return default_config
+
+    try:
+        with open(CONFIG_FILE, "r", encoding="utf-8") as file:
+            data = json.load(file)
+    except Exception:
+        return default_config
+
+    notifications = data.get("notifications", {})
+    return {
+        "notifications": {
+            "email": bool(notifications.get("email", True)),
+            "telegram": bool(notifications.get("telegram", True)),
+        }
+    }
+
+
+CONFIG = load_config()
 
 
 def format_date_ist(date_str):
@@ -172,6 +202,9 @@ def build_html(current_games, upcoming_games):
 
 
 def send_email(subject, html):
+    if not CONFIG["notifications"]["email"]:
+        return
+
     if not EMAIL or not PASSWORD or not TO_EMAIL:
         return
 
@@ -214,6 +247,9 @@ def build_telegram_message(current_games, upcoming_games):
 
 
 def send_telegram_message(message):
+    if not CONFIG["notifications"]["telegram"]:
+        return
+
     if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
         return
 

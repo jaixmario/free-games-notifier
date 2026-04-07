@@ -44,6 +44,7 @@ free-games-notifier/
 |-- epic.PY
 |-- steam.py
 |-- generate_readme.py
+|-- config.json
 |-- free.txt
 |-- free-steam.txt
 `-- .github/
@@ -81,6 +82,19 @@ Create these repository secrets in `Settings -> Secrets and variables -> Actions
 | `TO_EMAIL` | Recipient email address |
 
 Use a Gmail App Password, not your normal account password. Telegram is optional, but if you set both Telegram secrets the workflow will send bot messages too.
+
+### 4. Control notification types with `config.json`
+
+```json
+{
+  "notifications": {
+    "email": true,
+    "telegram": false
+  }
+}
+```
+
+If a notification type is set to `false`, the scripts will skip it completely and will not require those credentials to be present.
 
 ---
 
