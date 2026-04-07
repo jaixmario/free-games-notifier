@@ -1,27 +1,13 @@
 {
-  "signature": "Free Weekend::Subnautica::https://store.steampowered.com/app/264710|Free to Keep::Depths Of Horror: Mushroom Day::https://store.steampowered.com/app/1590840/Depths_Of_Horror_Mushroom_Day/?snr=1_7_7_2300_150_1|Free to Keep::House Flipper::https://store.steampowered.com/app/613100/House_Flipper/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-04-06T16:58:47.273983+00:00",
+  "signature": "Free to Keep::Chamber Survival::https://store.steampowered.com/app/2943780/Chamber_Survival/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-04-06T17:26:16.989770+00:00",
   "games": [
     {
       "type": "Free to Keep",
-      "title": "Depths Of Horror: Mushroom Day",
-      "link": "https://store.steampowered.com/app/1590840/Depths_Of_Horror_Mushroom_Day/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1590840/capsule_231x87.jpg?t=1775059568",
+      "title": "Chamber Survival",
+      "link": "https://store.steampowered.com/app/2943780/Chamber_Survival/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2943780/capsule_231x87.jpg?t=1775248437",
       "time": "Limited Time Offer"
-    },
-    {
-      "type": "Free to Keep",
-      "title": "House Flipper",
-      "link": "https://store.steampowered.com/app/613100/House_Flipper/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/613100/446e6c6faa35dd9303ae58753b532bdb4ff42960/capsule_231x87.jpg?t=1775231659",
-      "time": "Limited Time Offer"
-    },
-    {
-      "type": "Free Weekend",
-      "title": "Subnautica",
-      "link": "https://store.steampowered.com/app/264710",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/2404a52664337e198960d63a/1f3d286c26566485c41856e1b3b0165729f81a7c/spotlight_image_english.png?t=1774547729",
-      "time": "Play for free until %1$s."
     }
   ]
 }

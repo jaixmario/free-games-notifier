@@ -10,7 +10,7 @@ Automatically tracks Epic Games and Steam free game offers, sends HTML email ale
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **06 Apr 2026, 10:28 PM IST**  
+Last updated: **07 Apr 2026, 06:44 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -21,9 +21,7 @@ Source: Epic fallback from saved state, Steam live data
 - **Prop Sumo** - starts `09 Apr 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/67a9bcbc6b8e411e9265afb380fea91f))
 
 ### Steam
-- **Depths Of Horror: Mushroom Day** - Free to Keep ([Open](https://store.steampowered.com/app/1590840/Depths_Of_Horror_Mushroom_Day/?snr=1_7_7_2300_150_1))
-- **House Flipper** - Free to Keep ([Open](https://store.steampowered.com/app/613100/House_Flipper/?snr=1_7_7_2300_150_1))
-- **Subnautica** - Free Weekend ([Open](https://store.steampowered.com/app/264710))
+- **Chamber Survival** - Free to Keep ([Open](https://store.steampowered.com/app/2943780/Chamber_Survival/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
