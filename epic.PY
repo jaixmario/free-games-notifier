@@ -58,6 +58,53 @@ def format_date_ist(date_str):
         return "N/A"
 
 
+def normalize_store_path(value):
+    if not value:
+        return ""
+
+    value = str(value).strip().strip("/")
+    if not value:
+        return ""
+
+    parts = [part for part in value.split("/") if part and part.lower() not in {"home", "browse"}]
+    if not parts:
+        return ""
+
+    if parts[0].lower() == "p" and len(parts) > 1:
+        return f"p/{parts[1]}"
+
+    if len(parts) == 1:
+        return f"p/{parts[0]}"
+
+    return "/".join(parts)
+
+
+def build_store_link(game):
+    candidate_paths = []
+
+    for mapping in game.get("offerMappings", []) or []:
+        candidate_paths.append(mapping.get("pageSlug"))
+
+    catalog_ns = game.get("catalogNs") or {}
+    for mapping in catalog_ns.get("mappings", []) or []:
+        candidate_paths.append(mapping.get("pageSlug"))
+
+    candidate_paths.extend(
+        [
+            game.get("productSlug"),
+            game.get("urlSlug"),
+            game.get("offerType"),
+        ]
+    )
+
+    for candidate in candidate_paths:
+        normalized = normalize_store_path(candidate)
+        if normalized:
+            return f"https://store.epicgames.com/en-US/{normalized}"
+
+    return "https://store.epicgames.com/en-US/"
+
+
 def fetch_games():
     response = requests.get(API_URL, timeout=30)
     response.raise_for_status()
@@ -77,8 +124,7 @@ def fetch_games():
                     image = img["url"]
                     break
 
-            slug = game.get("productSlug") or game.get("urlSlug") or ""
-            link = f"https://store.epicgames.com/en-US/p/{slug}" if slug else "https://store.epicgames.com/"
+            link = build_store_link(game)
             promotions = game.get("promotions") or {}
 
             if promotions.get("promotionalOffers"):
