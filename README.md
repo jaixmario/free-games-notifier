@@ -11,18 +11,19 @@
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **08 Apr 2026, 09:57 PM IST**  
+Last updated: **11 Apr 2026, 12:19 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Clone Drone in the Danger Zone** - free until `09 Apr 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/clone-drone-in-the-danger-zone-4daf6e))
+- **Prop Sumo** - free until `16 Apr 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/propsumo-ca8bd7))
 - **TOMAK: Save the Earth Regeneration** - free until `16 Apr 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/tomak-save-the-earth-regeneration-c1207c))
 
 ### Upcoming on Epic
-- **Prop Sumo** - starts `09 Apr 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/propsumo-ca8bd7))
+- **The Stone of Madness** - starts `16 Apr 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/the-stone-of-madness-7b22f3))
 
 ### Steam
-- **Chamber Survival** - Free to Keep ([Open](https://store.steampowered.com/app/2943780/Chamber_Survival/?snr=1_7_7_2300_150_1))
+- **Graveyard Keeper** - Free to Keep ([Open](https://store.steampowered.com/app/599140/Graveyard_Keeper/?snr=1_7_7_2300_150_1))
+- **LivingForest** - Free to Keep ([Open](https://store.steampowered.com/app/3027490/LivingForest/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
