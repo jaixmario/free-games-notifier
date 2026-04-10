@@ -10,7 +10,7 @@
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **10 Apr 2026, 06:34 PM IST**  
+Last updated: **11 Apr 2026, 12:19 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -22,6 +22,7 @@ Source: Epic fallback from saved state, Steam live data
 
 ### Steam
 - **Graveyard Keeper** - Free to Keep ([Open](https://store.steampowered.com/app/599140/Graveyard_Keeper/?snr=1_7_7_2300_150_1))
+- **LivingForest** - Free to Keep ([Open](https://store.steampowered.com/app/3027490/LivingForest/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
