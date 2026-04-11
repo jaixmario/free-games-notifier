@@ -41,6 +41,7 @@
         <a href="#flow">System Flow</a>
         <a href="#files">Main Files</a>
         <a href="#json">JSON Data</a>
+        <a href="#notifications">Notifications</a>
         <a href="#automation">Automation</a>
         <a href="#pages">GitHub Pages</a>
         <a href="#setup">Setup</a>
@@ -53,7 +54,7 @@
           <h2>What this project does</h2>
           <p>
             The project tracks free game promotions from Epic Games and Steam, stores structured JSON snapshots,
-            sends HTML email alerts when lineups change, updates the README automatically, and exposes the latest
+            sends notifications through email, Telegram, and Discord when lineups change, updates the README automatically, and exposes the latest
             offers through this GitHub Pages site.
           </p>
         </section>
@@ -80,7 +81,7 @@
             </div>
             <div class="timeline-item">
               <strong>5. Publish</strong>
-              <p>`generate_readme.py` refreshes the README while GitHub Pages serves the JSON-backed website.</p>
+              <p>`generate_readme.py` refreshes the README while GitHub Pages serves the JSON-backed website, and `start.py` runs both notifiers locally in sequence.</p>
             </div>
           </div>
         </section>
@@ -91,10 +92,13 @@
           <div class="info-table">
             <div class="info-row"><span>`epic.PY`</span><strong>Epic fetcher, email sender, JSON state writer.</strong></div>
             <div class="info-row"><span>`steam.py`</span><strong>Steam fetcher, weekend title resolver, JSON state writer.</strong></div>
+            <div class="info-row"><span>`start.py`</span><strong>Runs `epic.PY` and `steam.py` one after another.</strong></div>
             <div class="info-row"><span>`generate_readme.py`</span><strong>README auto-section generator.</strong></div>
+            <div class="info-row"><span>`config.json`</span><strong>Notification toggles and secrets-file settings.</strong></div>
+            <div class="info-row"><span>`secrets.json`</span><strong>Optional local JSON secrets source.</strong></div>
             <div class="info-row"><span>`free.json`</span><strong>Epic current and upcoming free game snapshot.</strong></div>
             <div class="info-row"><span>`free-steam.json`</span><strong>Steam free-offer snapshot.</strong></div>
-            <div class="info-row"><span>`SITE/index.html`</span><strong>Games homepage.</strong></div>
+            <div class="info-row"><span>`index.html`</span><strong>GitHub Pages homepage for the games dashboard.</strong></div>
             <div class="info-row"><span>`SITE/docs.html`</span><strong>Full documentation page.</strong></div>
           </div>
         </section>
@@ -121,6 +125,50 @@ free-steam.json
           </div>
         </section>
 
+        <section class="doc-block" id="notifications">
+          <p class="eyebrow">Delivery</p>
+          <h2>Notification channels</h2>
+          <p>
+            The project can notify through email, Telegram, and Discord. Each channel can be enabled or disabled
+            independently inside <code>config.json</code>.
+          </p>
+          <div class="code-card">
+            <pre><code>{
+  "secrets": {
+    "use_hardcoded_secrets": false,
+    "secrets_file": "secrets.json"
+  },
+  "notifications": {
+    "email": true,
+    "telegram": true,
+    "discord": true
+  }
+}</code></pre>
+          </div>
+          <p>
+            Telegram and Discord both support multiple targets separated by commas. For example:
+            <code>-1003918180986,1845799450</code> for Telegram chat IDs or
+            <code>123456789012345678,987654321098765432</code> for Discord channel IDs.
+          </p>
+          <div class="code-card">
+            <pre><code>{
+  "email": {
+    "email": "you@gmail.com",
+    "password": "your-app-password",
+    "to_email": "recipient@example.com"
+  },
+  "telegram": {
+    "bot_token": "123456:telegram-bot-token",
+    "chat_id": "-1003918180986,1845799450"
+  },
+  "discord": {
+    "bot_token": "YOUR_DISCORD_BOT_TOKEN",
+    "channel_id": "123456789012345678,987654321098765432"
+  }
+}</code></pre>
+          </div>
+        </section>
+
         <section class="doc-block" id="automation">
           <p class="eyebrow">Automation</p>
           <h2>GitHub Actions</h2>
@@ -134,8 +182,9 @@ free-steam.json
           <p class="eyebrow">Deployment</p>
           <h2>GitHub Pages setup</h2>
           <p>
-            The public entry can point to the root redirect page, which forwards visitors into the `SITE`
-            folder. This keeps the web assets grouped together without losing the custom domain landing page.
+            The public entry lives at the repository root in <code>index.html</code>, while shared site assets and
+            the documentation page live in the <code>SITE/</code> folder. This keeps GitHub Pages happy while still
+            grouping the website files cleanly.
           </p>
         </section>
 
@@ -148,9 +197,12 @@ free-steam.json
 $env:EMAIL="you@example.com"
 $env:PASSWORD="your-app-password"
 $env:TO_EMAIL="recipient@example.com"
+$env:TELEGRAM_BOT_TOKEN="123456:telegram-bot-token"
+$env:TELEGRAM_CHAT_ID="-1003918180986,1845799450"
+$env:DISCORD_BOT_TOKEN="your-discord-bot-token"
+$env:DISCORD_CHANNEL_ID="123456789012345678,987654321098765432"
 
-python epic.PY
-python steam.py
+python start.py
 python generate_readme.py</code></pre>
           </div>
         </section>
