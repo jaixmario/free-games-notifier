@@ -98,8 +98,12 @@ PASSWORD = SECRETS["PASSWORD"]
 TO_EMAIL = SECRETS["TO_EMAIL"]
 TELEGRAM_BOT_TOKEN = SECRETS["TELEGRAM_BOT_TOKEN"]
 TELEGRAM_CHAT_ID = SECRETS["TELEGRAM_CHAT_ID"]
-DISCORD_BOT_TOKEN = SECRETS["DISCORD_BOT_TOKEN"]
-DISCORD_CHANNEL_ID = SECRETS["DISCORD_CHANNEL_ID"]
+DISCORD_BOT_TOKEN = SECRETS["DISCORD_BOT_TOKEN"] 
+DISCORD_CHANNEL_ID = SECRETS["DISCORD_CHANNEL_ID"] 
+
+
+def parse_csv_values(value):
+    return [item.strip() for item in str(value).split(",") if item.strip()]
 
 def clean_text(value):
     return re.sub(r"\s+", " ", (value or "")).strip()
@@ -341,42 +345,46 @@ def send_telegram_text(message):
     if not CONFIG["notifications"]["telegram"]:
         return
 
-    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+    chat_ids = parse_csv_values(TELEGRAM_CHAT_ID)
+    if not TELEGRAM_BOT_TOKEN or not chat_ids:
         return
 
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
-    response = requests.post(
-        url,
-        json={
-            "chat_id": TELEGRAM_CHAT_ID,
-            "text": message,
-            "disable_web_page_preview": False,
-            "parse_mode": "HTML",
-        },
-        timeout=30,
-    )
-    response.raise_for_status()
+    for chat_id in chat_ids:
+        response = requests.post(
+            url,
+            json={
+                "chat_id": chat_id,
+                "text": message,
+                "disable_web_page_preview": False,
+                "parse_mode": "HTML",
+            },
+            timeout=30,
+        )
+        response.raise_for_status()
 
 
 def send_telegram_photo(photo_url, caption):
     if not CONFIG["notifications"]["telegram"]:
         return
 
-    if not TELEGRAM_BOT_TOKEN or not TELEGRAM_CHAT_ID:
+    chat_ids = parse_csv_values(TELEGRAM_CHAT_ID)
+    if not TELEGRAM_BOT_TOKEN or not chat_ids:
         return
 
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
-    response = requests.post(
-        url,
-        data={
-            "chat_id": TELEGRAM_CHAT_ID,
-            "photo": photo_url,
-            "caption": caption[:1024],
-            "parse_mode": "HTML",
-        },
-        timeout=30,
-    )
-    response.raise_for_status()
+    for chat_id in chat_ids:
+        response = requests.post(
+            url,
+            data={
+                "chat_id": chat_id,
+                "photo": photo_url,
+                "caption": caption[:1024],
+                "parse_mode": "HTML",
+            },
+            timeout=30,
+        )
+        response.raise_for_status()
 
 
 def send_telegram_notifications(games):
@@ -397,15 +405,17 @@ DISCORD_API = "https://discord.com/api/v10/channels/{channel_id}/messages"
 
 def _discord_post(payload):
     """POST one message to the configured Discord channel."""
-    if not DISCORD_BOT_TOKEN or not DISCORD_CHANNEL_ID:
+    channel_ids = parse_csv_values(DISCORD_CHANNEL_ID)
+    if not DISCORD_BOT_TOKEN or not channel_ids:
         return
-    url = DISCORD_API.format(channel_id=DISCORD_CHANNEL_ID)
     headers = {
         "Authorization": f"Bot {DISCORD_BOT_TOKEN}",
         "Content-Type": "application/json",
     }
-    response = requests.post(url, headers=headers, json=payload, timeout=30)
-    response.raise_for_status()
+    for channel_id in channel_ids:
+        url = DISCORD_API.format(channel_id=channel_id)
+        response = requests.post(url, headers=headers, json=payload, timeout=30)
+        response.raise_for_status()
 
 
 def build_discord_game_embed(game):
