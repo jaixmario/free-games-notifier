@@ -48,6 +48,7 @@ Source: Epic fallback from saved state, Steam live data
 free-games-notifier/
 |-- epic.PY
 |-- steam.py
+|-- start.py
 |-- generate_readme.py
 |-- config.json
 |-- secrets.json
@@ -210,6 +211,14 @@ Each run:
 
 ## Run Manually
 
+Run both notifier scripts with one command:
+
+```powershell
+python start.py
+```
+
+If you want to run with custom environment variables locally:
+
 ```powershell
 $env:EMAIL="you@gmail.com"
 $env:PASSWORD="your-app-password"
@@ -219,8 +228,7 @@ $env:TELEGRAM_CHAT_ID="123456789"
 $env:DISCORD_BOT_TOKEN="your-discord-bot-token"
 $env:DISCORD_CHANNEL_ID="your-channel-id"
 
-python epic.PY
-python steam.py
+python start.py
 python generate_readme.py
 ```
 
