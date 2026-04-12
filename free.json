@@ -1,0 +1,29 @@
+{
+  "signature": "CURRENT:Prop Sumo,TOMAK: Save the Earth Regeneration|UPCOMING:The Stone of Madness",
+  "updated_at": "2026-04-12T10:25:47.124684+00:00",
+  "current_games": [
+    {
+      "title": "Prop Sumo",
+      "image": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-1inog.jpg",
+      "link": "https://store.epicgames.com/en-US/p/propsumo-ca8bd7",
+      "start": "09 Apr 2026, 08:30 PM IST",
+      "end": "16 Apr 2026, 08:30 PM IST"
+    },
+    {
+      "title": "TOMAK: Save the Earth Regeneration",
+      "image": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-1dr6j.png",
+      "link": "https://store.epicgames.com/en-US/p/tomak-save-the-earth-regeneration-c1207c",
+      "start": "02 Apr 2026, 05:30 AM IST",
+      "end": "16 Apr 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "The Stone of Madness",
+      "image": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg",
+      "link": "https://store.epicgames.com/en-US/p/the-stone-of-madness-7b22f3",
+      "start": "16 Apr 2026, 08:30 PM IST",
+      "end": "23 Apr 2026, 08:30 PM IST"
+    }
+  ]
+}

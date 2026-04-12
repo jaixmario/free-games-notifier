@@ -1,0 +1,20 @@
+{
+  "signature": "Free to Keep::Graveyard Keeper::https://store.steampowered.com/app/599140/Graveyard_Keeper/?snr=1_7_7_2300_150_1|Free to Keep::LivingForest::https://store.steampowered.com/app/3027490/LivingForest/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-04-12T10:25:49.095527+00:00",
+  "games": [
+    {
+      "type": "Free to Keep",
+      "title": "Graveyard Keeper",
+      "link": "https://store.steampowered.com/app/599140/Graveyard_Keeper/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/599140/cd8cb8097f236a6cfcaa2a08381f31775693fac1/capsule_231x87.jpg?t=1775826330",
+      "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free to Keep",
+      "title": "LivingForest",
+      "link": "https://store.steampowered.com/app/3027490/LivingForest/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3027490/capsule_231x87.jpg?t=1775248291",
+      "time": "Limited Time Offer"
+    }
+  ]
+}
