@@ -12,7 +12,7 @@
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **18 Apr 2026, 06:27 PM IST**  
+Last updated: **19 Apr 2026, 12:26 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -23,6 +23,7 @@ Source: Epic fallback from saved state, Steam live data
 
 ### Steam
 - **Cthulhu: The Cosmic Abyss - Sanity Skin Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4277070/Cthulhu_The_Cosmic_Abyss__Sanity_Skin_Pack/?snr=1_7_7_2300_150_1))
+- **Football Manager 26** - Free Weekend ([Open](https://store.steampowered.com/app/3551340))
 - **Legend of Keepers: Career of a Dungeon Manager** - Free to Keep ([Open](https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/?snr=1_7_7_2300_150_1))
 - **NineHells** - Free to Keep ([Open](https://store.steampowered.com/app/2860410/NineHells/?snr=1_7_7_2300_150_1))
 - **Stickman Killing Zombie** - Free to Keep ([Open](https://store.steampowered.com/app/2792610/Stickman_Killing_Zombie/?snr=1_7_7_2300_150_1))

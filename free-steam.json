@@ -1,40 +1,47 @@
 {
-  "signature": "Free to Keep::Cthulhu: The Cosmic Abyss - Sanity Skin Pack::https://store.steampowered.com/app/4277070/Cthulhu_The_Cosmic_Abyss__Sanity_Skin_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Legend of Keepers: Career of a Dungeon Manager::https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/?snr=1_7_7_2300_150_1|Free to Keep::NineHells::https://store.steampowered.com/app/2860410/NineHells/?snr=1_7_7_2300_150_1|Free to Keep::Stickman Killing Zombie::https://store.steampowered.com/app/2792610/Stickman_Killing_Zombie/?snr=1_7_7_2300_150_1|Free to Keep::Uncanny Tales: Cold Road::https://store.steampowered.com/app/3534240/Uncanny_Tales_Cold_Road/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-04-18T12:57:48.918736+00:00",
+  "signature": "Free Weekend::Football Manager 26::https://store.steampowered.com/app/3551340|Free to Keep::Cthulhu: The Cosmic Abyss - Sanity Skin Pack::https://store.steampowered.com/app/4277070/Cthulhu_The_Cosmic_Abyss__Sanity_Skin_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Legend of Keepers: Career of a Dungeon Manager::https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/?snr=1_7_7_2300_150_1|Free to Keep::NineHells::https://store.steampowered.com/app/2860410/NineHells/?snr=1_7_7_2300_150_1|Free to Keep::Stickman Killing Zombie::https://store.steampowered.com/app/2792610/Stickman_Killing_Zombie/?snr=1_7_7_2300_150_1|Free to Keep::Uncanny Tales: Cold Road::https://store.steampowered.com/app/3534240/Uncanny_Tales_Cold_Road/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-04-18T18:56:51.348728+00:00",
   "games": [
     {
       "type": "Free to Keep",
       "title": "Cthulhu: The Cosmic Abyss - Sanity Skin Pack",
       "link": "https://store.steampowered.com/app/4277070/Cthulhu_The_Cosmic_Abyss__Sanity_Skin_Pack/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4277070/dddc164d44066134b75ee257a114f9c4920f13cc/capsule_231x87.jpg?t=1776355338",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4277070/dddc164d44066134b75ee257a114f9c4920f13cc/capsule_231x87.jpg?t=1776355338",
       "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free Weekend",
+      "title": "Football Manager 26",
+      "link": "https://store.steampowered.com/app/3551340",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/f961b672ee8c2502d8bf6058/7b3245f250262aa45e4770e11dfc7dc730681d66/spotlight_image_english.jpg?t=1775684495",
+      "time": "Play for free until %1$s."
     },
     {
       "type": "Free to Keep",
       "title": "Legend of Keepers: Career of a Dungeon Manager",
       "link": "https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/978520/capsule_231x87.jpg?t=1765920747",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/978520/capsule_231x87.jpg?t=1765920747",
       "time": "Limited Time Offer"
     },
     {
       "type": "Free to Keep",
       "title": "NineHells",
       "link": "https://store.steampowered.com/app/2860410/NineHells/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860410/capsule_231x87.jpg?t=1776462207",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2860410/capsule_231x87.jpg?t=1776462207",
       "time": "Limited Time Offer"
     },
     {
       "type": "Free to Keep",
       "title": "Stickman Killing Zombie",
       "link": "https://store.steampowered.com/app/2792610/Stickman_Killing_Zombie/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792610/capsule_231x87.jpg?t=1775669825",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2792610/capsule_231x87.jpg?t=1775669825",
       "time": "Limited Time Offer"
     },
     {
       "type": "Free to Keep",
       "title": "Uncanny Tales: Cold Road",
       "link": "https://store.steampowered.com/app/3534240/Uncanny_Tales_Cold_Road/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3534240/f0336c84ed9bbf3110a3b55df7175855bd226e3a/capsule_231x87.jpg?t=1776331862",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3534240/f0336c84ed9bbf3110a3b55df7175855bd226e3a/capsule_231x87.jpg?t=1776331862",
       "time": "Limited Time Offer"
     }
   ]
