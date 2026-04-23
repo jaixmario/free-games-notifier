@@ -12,21 +12,21 @@
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **23 Apr 2026, 06:53 PM IST**  
+Last updated: **24 Apr 2026, 12:34 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **The Stone of Madness** - free until `23 Apr 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/the-stone-of-madness-7b22f3))
+- **DOOMBLADE** - free until `30 Apr 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/doomblade-afdf9a))
 
 ### Upcoming on Epic
-- **DOOMBLADE** - starts `23 Apr 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/doomblade-afdf9a))
 - **Firestone Online Idle RPG** - starts `30 Apr 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b))
+- **Oddsparks: An Automation Adventure** - starts `30 Apr 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/oddsparks-58440c))
 
 ### Steam
+- **8AM** - Free to Keep ([Open](https://store.steampowered.com/app/2835590/8AM/?snr=1_7_7_2300_150_1))
 - **Aeonic** - Free to Keep ([Open](https://store.steampowered.com/app/3277530/Aeonic/?snr=1_7_7_2300_150_1))
 - **Cthulhu: The Cosmic Abyss - Sanity Skin Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4277070/Cthulhu_The_Cosmic_Abyss__Sanity_Skin_Pack/?snr=1_7_7_2300_150_1))
-- **Legend of Keepers: Career of a Dungeon Manager** - Free to Keep ([Open](https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/?snr=1_7_7_2300_150_1))
-- **Sentience: The Android's Tale** - Free to Keep ([Open](https://store.steampowered.com/app/635850/Sentience_The_Androids_Tale/?snr=1_7_7_2300_150_1))
+- **Nocturnal** - Free to Keep ([Open](https://store.steampowered.com/app/1634080/Nocturnal/?snr=1_7_7_2300_150_1))
 - **SurrounDead Poly Construction** - Free to Keep ([Open](https://store.steampowered.com/app/4148570/SurrounDead_Poly_Construction/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 

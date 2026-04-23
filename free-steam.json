@@ -1,7 +1,14 @@
 {
-  "signature": "Free to Keep::Aeonic::https://store.steampowered.com/app/3277530/Aeonic/?snr=1_7_7_2300_150_1|Free to Keep::Cthulhu: The Cosmic Abyss - Sanity Skin Pack::https://store.steampowered.com/app/4277070/Cthulhu_The_Cosmic_Abyss__Sanity_Skin_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Legend of Keepers: Career of a Dungeon Manager::https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/?snr=1_7_7_2300_150_1|Free to Keep::Sentience: The Android's Tale::https://store.steampowered.com/app/635850/Sentience_The_Androids_Tale/?snr=1_7_7_2300_150_1|Free to Keep::SurrounDead Poly Construction::https://store.steampowered.com/app/4148570/SurrounDead_Poly_Construction/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-04-23T02:26:47.499570+00:00",
+  "signature": "Free to Keep::8AM::https://store.steampowered.com/app/2835590/8AM/?snr=1_7_7_2300_150_1|Free to Keep::Aeonic::https://store.steampowered.com/app/3277530/Aeonic/?snr=1_7_7_2300_150_1|Free to Keep::Cthulhu: The Cosmic Abyss - Sanity Skin Pack::https://store.steampowered.com/app/4277070/Cthulhu_The_Cosmic_Abyss__Sanity_Skin_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Nocturnal::https://store.steampowered.com/app/1634080/Nocturnal/?snr=1_7_7_2300_150_1|Free to Keep::SurrounDead Poly Construction::https://store.steampowered.com/app/4148570/SurrounDead_Poly_Construction/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-04-23T19:04:58.243726+00:00",
   "games": [
+    {
+      "type": "Free to Keep",
+      "title": "8AM",
+      "link": "https://store.steampowered.com/app/2835590/8AM/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2835590/capsule_231x87.jpg?t=1776723150",
+      "time": "Limited Time Offer"
+    },
     {
       "type": "Free to Keep",
       "title": "Aeonic",
@@ -18,16 +25,9 @@
     },
     {
       "type": "Free to Keep",
-      "title": "Legend of Keepers: Career of a Dungeon Manager",
-      "link": "https://store.steampowered.com/app/978520/Legend_of_Keepers_Career_of_a_Dungeon_Manager/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/978520/capsule_231x87.jpg?t=1765920747",
-      "time": "Limited Time Offer"
-    },
-    {
-      "type": "Free to Keep",
-      "title": "Sentience: The Android's Tale",
-      "link": "https://store.steampowered.com/app/635850/Sentience_The_Androids_Tale/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/635850/capsule_231x87.jpg?t=1775829391",
+      "title": "Nocturnal",
+      "link": "https://store.steampowered.com/app/1634080/Nocturnal/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1634080/capsule_231x87.jpg?t=1776793447",
       "time": "Limited Time Offer"
     },
     {

@@ -1,27 +1,27 @@
 {
-  "signature": "CURRENT:The Stone of Madness|UPCOMING:DOOMBLADE,Firestone Online Idle RPG",
-  "updated_at": "2026-04-23T13:23:31.400872+00:00",
+  "signature": "CURRENT:DOOMBLADE|UPCOMING:Firestone Online Idle RPG,Oddsparks: An Automation Adventure",
+  "updated_at": "2026-04-23T19:04:48.225188+00:00",
   "current_games": [
-    {
-      "title": "The Stone of Madness",
-      "image": "https://cdn1.epicgames.com/spt-assets/8de621e8d91b473f892472024035dc22/the-stone-of-madness-hvdla.jpg",
-      "link": "https://store.epicgames.com/en-US/p/the-stone-of-madness-7b22f3",
-      "start": "16 Apr 2026, 08:30 PM IST",
-      "end": "23 Apr 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "DOOMBLADE",
       "image": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg",
       "link": "https://store.epicgames.com/en-US/p/doomblade-afdf9a",
       "start": "23 Apr 2026, 08:30 PM IST",
       "end": "30 Apr 2026, 08:30 PM IST"
-    },
+    }
+  ],
+  "upcoming_games": [
     {
       "title": "Firestone Online Idle RPG",
-      "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-101lx.png",
+      "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1vv9i.png",
       "link": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+      "start": "30 Apr 2026, 08:30 PM IST",
+      "end": "07 May 2026, 08:30 PM IST"
+    },
+    {
+      "title": "Oddsparks: An Automation Adventure",
+      "image": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png",
+      "link": "https://store.epicgames.com/en-US/p/oddsparks-58440c",
       "start": "30 Apr 2026, 08:30 PM IST",
       "end": "07 May 2026, 08:30 PM IST"
     }
