@@ -12,7 +12,7 @@
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **26 Apr 2026, 06:31 PM IST**  
+Last updated: **27 Apr 2026, 12:21 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -26,7 +26,6 @@ Source: Epic fallback from saved state, Steam live data
 - **8AM** - Free to Keep ([Open](https://store.steampowered.com/app/2835590/8AM/?snr=1_7_7_2300_150_1))
 - **Aeonic** - Free to Keep ([Open](https://store.steampowered.com/app/3277530/Aeonic/?snr=1_7_7_2300_150_1))
 - **Cthulhu: The Cosmic Abyss - Sanity Skin Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4277070/Cthulhu_The_Cosmic_Abyss__Sanity_Skin_Pack/?snr=1_7_7_2300_150_1))
-- **Nocturnal** - Free to Keep ([Open](https://store.steampowered.com/app/1634080/Nocturnal/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
