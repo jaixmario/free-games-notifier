@@ -7,6 +7,6 @@
     "email": true,
     "telegram": true,
     "discord": true,
-    "whatsapp": false
+    "whatsapp": true
   }
 }
