@@ -1,0 +1,29 @@
+{
+  "signature": "CURRENT:DOOMBLADE|UPCOMING:Firestone Online Idle RPG,Oddsparks: An Automation Adventure",
+  "updated_at": "2026-04-30T10:43:31.135691+00:00",
+  "current_games": [
+    {
+      "title": "DOOMBLADE",
+      "image": "https://cdn1.epicgames.com/spt-assets/df87b66c9f3042ac83311bdc9b442884/doomblade-120wd.jpg",
+      "link": "https://store.epicgames.com/en-US/p/doomblade-afdf9a",
+      "start": "23 Apr 2026, 08:30 PM IST",
+      "end": "30 Apr 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Firestone Online Idle RPG",
+      "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1vv9i.png",
+      "link": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+      "start": "30 Apr 2026, 08:30 PM IST",
+      "end": "07 May 2026, 08:30 PM IST"
+    },
+    {
+      "title": "Oddsparks: An Automation Adventure",
+      "image": "https://cdn1.epicgames.com/spt-assets/f09aaab3f10e4c18a2948a5b829bd84d/oddsparks-an-automation-adventure-117zi.png",
+      "link": "https://store.epicgames.com/en-US/p/oddsparks-58440c",
+      "start": "30 Apr 2026, 08:30 PM IST",
+      "end": "07 May 2026, 08:30 PM IST"
+    }
+  ]
+}
