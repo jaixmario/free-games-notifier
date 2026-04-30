@@ -13,7 +13,7 @@
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **30 Apr 2026, 12:51 AM IST**  
+Last updated: **30 Apr 2026, 08:12 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -24,7 +24,6 @@ Source: Epic fallback from saved state, Steam live data
 - **Oddsparks: An Automation Adventure** - starts `30 Apr 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/oddsparks-58440c))
 
 ### Steam
-- **Aeonic** - Free to Keep ([Open](https://store.steampowered.com/app/3277530/Aeonic/?snr=1_7_7_2300_150_1))
 - **Cthulhu: The Cosmic Abyss - Sanity Skin Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4277070/Cthulhu_The_Cosmic_Abyss__Sanity_Skin_Pack/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
