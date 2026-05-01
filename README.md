@@ -9,7 +9,9 @@
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-Cloud%20API-25D366?logo=whatsapp&logoColor=white)
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=jaixmario&label=repo%20views&color=0e75b6&style=flat" alt="jaixmario" />
+</p>
 <details>
 <summary><strong>Version</strong></summary>
 
@@ -316,9 +318,7 @@ python generate_readme.py
 - State files are JSON snapshots containing signatures plus game metadata like title, link, image, dates, and offer type.
 
 ---
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaixmario&label=Profile%20views&color=0e75b6&style=flat" alt="jaixmario" />
-</p>
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
