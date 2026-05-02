@@ -9,9 +9,7 @@
 ![Telegram](https://img.shields.io/badge/Telegram-Bot-26A5E4?logo=telegram&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-Bot-5865F2?logo=discord&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-Cloud%20API-25D366?logo=whatsapp&logoColor=white)
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jaixmario&label=repo%20views&color=0e75b6&style=flat" alt="jaixmario" />
-</p>
+![Repo Views](https://githubbadge.mario22623.workers.dev/jaixmario/free-games-notifier?label=repo%20views&color=%23c70000&labelColor=%23000000&textColor=%23ffffff&countColor=%23ffffff&fontSize=11&format=short)
 <details>
 <summary><strong>Version</strong></summary>
 
