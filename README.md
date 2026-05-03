@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **03 May 2026, 06:34 PM IST**  
+Last updated: **04 May 2026, 12:26 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,7 +47,6 @@ Source: Epic fallback from saved state, Steam live data
 - **Trash Goblin** - starts `07 May 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7))
 
 ### Steam
-- **No More Room in Hell 2** - Free Weekend ([Open](https://store.steampowered.com/app/292000))
 - **World of Warships — Marblehead Lima** - Free to Keep ([Open](https://store.steampowered.com/app/934690/World_of_Warships__Marblehead_Lima/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
