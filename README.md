@@ -35,19 +35,19 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **07 May 2026, 07:31 PM IST**  
+Last updated: **08 May 2026, 01:11 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Firestone Online Idle RPG** - free until `07 May 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b))
-- **Oddsparks: An Automation Adventure** - free until `07 May 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/oddsparks-58440c))
+- **Arranger: A Role-Puzzling Adventure** - free until `14 May 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7))
+- **Trash Goblin** - free until `14 May 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7))
 
 ### Upcoming on Epic
-- **Arranger: A Role-Puzzling Adventure** - starts `07 May 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7))
-- **Trash Goblin** - starts `07 May 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7))
+- **Mystery Game 1** - starts `14 May 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
+- **Mystery Game 2** - starts `14 May 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
 
 ### Steam
-- **World of Warships — Marblehead Lima** - Free to Keep ([Open](https://store.steampowered.com/app/934690/World_of_Warships__Marblehead_Lima/?snr=1_7_7_2300_150_1))
+- No Steam freebies found.
 <!-- README_AUTO_SECTION:END -->
 
 ---
