@@ -1,5 +1,13 @@
 {
-  "signature": "",
-  "updated_at": "2026-05-07T19:41:13.119866+00:00",
-  "games": []
+  "signature": "Free to Keep::LivingBattle::https://store.steampowered.com/app/3353830/LivingBattle/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-05-09T18:57:16.853970+00:00",
+  "games": [
+    {
+      "type": "Free to Keep",
+      "title": "LivingBattle",
+      "link": "https://store.steampowered.com/app/3353830/LivingBattle/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3353830/2fbd26c468e9b09f7f6c403ed24543df5e2876e9/capsule_231x87.jpg?t=1777858205",
+      "time": "Limited Time Offer"
+    }
+  ]
 }
