@@ -1,12 +1,19 @@
 {
-  "signature": "Free to Keep::LivingBattle::https://store.steampowered.com/app/3353830/LivingBattle/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-05-09T18:57:16.853970+00:00",
+  "signature": "Free to Keep::Just Move Fall Dungeon Endless Abyss::https://store.steampowered.com/app/3856040/Just_Move_Fall_Dungeon_Endless_Abyss/?snr=1_7_7_2300_150_1|Free to Keep::LivingBattle::https://store.steampowered.com/app/3353830/LivingBattle/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-05-10T18:59:10.048365+00:00",
   "games": [
+    {
+      "type": "Free to Keep",
+      "title": "Just Move Fall Dungeon Endless Abyss",
+      "link": "https://store.steampowered.com/app/3856040/Just_Move_Fall_Dungeon_Endless_Abyss/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3856040/0936541b60f81a9ebde0c5a223ca1b1c466dde62/capsule_231x87.jpg?t=1778365883",
+      "time": "Limited Time Offer"
+    },
     {
       "type": "Free to Keep",
       "title": "LivingBattle",
       "link": "https://store.steampowered.com/app/3353830/LivingBattle/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3353830/2fbd26c468e9b09f7f6c403ed24543df5e2876e9/capsule_231x87.jpg?t=1777858205",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3353830/2fbd26c468e9b09f7f6c403ed24543df5e2876e9/capsule_231x87.jpg?t=1778365475",
       "time": "Limited Time Offer"
     }
   ]
