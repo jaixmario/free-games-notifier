@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **12 May 2026, 07:48 PM IST**  
+Last updated: **13 May 2026, 01:17 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -48,7 +48,6 @@ Source: Epic fallback from saved state, Steam live data
 
 ### Steam
 - **Just Move Fall Dungeon Endless Abyss** - Free to Keep ([Open](https://store.steampowered.com/app/3856040/Just_Move_Fall_Dungeon_Endless_Abyss/?snr=1_7_7_2300_150_1))
-- **LivingBattle** - Free to Keep ([Open](https://store.steampowered.com/app/3353830/LivingBattle/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
