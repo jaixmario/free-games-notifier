@@ -35,19 +35,21 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **14 May 2026, 07:34 PM IST**  
+Last updated: **15 May 2026, 01:12 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Arranger: A Role-Puzzling Adventure** - free until `14 May 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/arranger-a-rolepuzzling-adventure-dbfde7))
-- **Trash Goblin** - free until `14 May 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/trash-goblin-cd5fd7))
+- **Sunderfolk - Standard Edition** - free until `21 May 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/sunderfolk-standard-edition-83c05e))
+- **The Telltale Batman Shadows Edition** - free until `21 May 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/the-telltale-batman))
 
 ### Upcoming on Epic
-- **Mystery Game 1** - starts `14 May 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
-- **Mystery Game 2** - starts `14 May 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
+- **Mystery Game Week 21 Game 1** - starts `21 May 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
+- **Mystery Game Week 21 Game 2** - starts `21 May 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
 
 ### Steam
-- No Steam freebies found.
+- **MISERY** - Free Weekend ([Open](https://store.steampowered.com/app/2119830))
+- **Terrors to Unveil - Day Off** - Free to Keep ([Open](https://store.steampowered.com/app/3587490/Terrors_to_Unveil__Day_Off/?snr=1_7_7_2300_150_1))
+- **V Rising** - Free Weekend ([Open](https://store.steampowered.com/app/1604030))
 <!-- README_AUTO_SECTION:END -->
 
 ---
