@@ -1,7 +1,14 @@
 {
-  "signature": "Free Weekend::MISERY::https://store.steampowered.com/app/2119830|Free Weekend::V Rising::https://store.steampowered.com/app/1604030|Free to Keep::Terrors to Unveil - Day Off::https://store.steampowered.com/app/3587490/Terrors_to_Unveil__Day_Off/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-05-14T19:42:53.359878+00:00",
+  "signature": "Free Weekend::MISERY::https://store.steampowered.com/app/2119830|Free Weekend::V Rising::https://store.steampowered.com/app/1604030|Free to Keep::Dino running from a FURRY: GAMESFORFARM::https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1|Free to Keep::Terrors to Unveil - Day Off::https://store.steampowered.com/app/3587490/Terrors_to_Unveil__Day_Off/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-05-15T19:26:21.833802+00:00",
   "games": [
+    {
+      "type": "Free to Keep",
+      "title": "Dino running from a FURRY: GAMESFORFARM",
+      "link": "https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3343840/039ec1eb76f5db8639cd463dd03649eeec628ad8/capsule_231x87.jpg?t=1778872535",
+      "time": "Limited Time Offer"
+    },
     {
       "type": "Free Weekend",
       "title": "MISERY",
@@ -13,7 +20,7 @@
       "type": "Free to Keep",
       "title": "Terrors to Unveil - Day Off",
       "link": "https://store.steampowered.com/app/3587490/Terrors_to_Unveil__Day_Off/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3587490/ccdb9490b15918d043ea5af13b93a3fc09fcb53e/capsule_231x87.jpg?t=1778605447",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3587490/ccdb9490b15918d043ea5af13b93a3fc09fcb53e/capsule_231x87.jpg?t=1778605447",
       "time": "Limited Time Offer"
     },
     {
