@@ -1,6 +1,6 @@
 {
-  "signature": "Free to Keep::AquaDream Soundtrack::https://store.steampowered.com/app/3502050/AquaDream_Soundtrack/?snr=1_7_7_2300_150_1|Free to Keep::Dino running from a FURRY: GAMESFORFARM::https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1|Free to Keep::Terrors to Unveil - Day Off::https://store.steampowered.com/app/3587490/Terrors_to_Unveil__Day_Off/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-05-18T19:42:07.546876+00:00",
+  "signature": "Free to Keep::AquaDream Soundtrack::https://store.steampowered.com/app/3502050/AquaDream_Soundtrack/?snr=1_7_7_2300_150_1|Free to Keep::Dino running from a FURRY: GAMESFORFARM::https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-05-19T19:52:27.441061+00:00",
   "games": [
     {
       "type": "Free to Keep",
@@ -14,13 +14,6 @@
       "title": "Dino running from a FURRY: GAMESFORFARM",
       "link": "https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3343840/039ec1eb76f5db8639cd463dd03649eeec628ad8/capsule_231x87.jpg?t=1778921416",
-      "time": "Limited Time Offer"
-    },
-    {
-      "type": "Free to Keep",
-      "title": "Terrors to Unveil - Day Off",
-      "link": "https://store.steampowered.com/app/3587490/Terrors_to_Unveil__Day_Off/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3587490/ccdb9490b15918d043ea5af13b93a3fc09fcb53e/capsule_231x87.jpg?t=1778605447",
       "time": "Limited Time Offer"
     }
   ]
