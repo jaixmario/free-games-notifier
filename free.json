@@ -1,36 +1,36 @@
 {
-  "signature": "CURRENT:Sunderfolk - Standard Edition,The Telltale Batman Shadows Edition|UPCOMING:Mystery Game Week 21 Game 1,Mystery Game Week 21 Game 2",
-  "updated_at": "2026-05-14T19:42:43.679393+00:00",
+  "signature": "CURRENT:Down in Bermuda,Tomb Raider I-III Remastered Starring Lara Croft|UPCOMING:Mystery Game Week 22 Game 1,Mystery Game Week 22 Game 2",
+  "updated_at": "2026-05-21T15:18:11.062015+00:00",
   "current_games": [
     {
-      "title": "Sunderfolk - Standard Edition",
-      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/OfferImageWide_2560x1440-05350f0fffad4da3945dc0871f2d2b24",
-      "link": "https://store.epicgames.com/en-US/p/sunderfolk-standard-edition-83c05e",
-      "start": "14 May 2026, 08:30 PM IST",
-      "end": "21 May 2026, 08:30 PM IST"
+      "title": "Down in Bermuda",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Offer_wide_2560x1440-5314b15510b84a82971afea207658297",
+      "link": "https://store.epicgames.com/en-US/p/down-in-bermuda",
+      "start": "21 May 2026, 08:30 PM IST",
+      "end": "28 May 2026, 08:30 PM IST"
     },
     {
-      "title": "The Telltale Batman Shadows Edition",
-      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/TheTelltaleBatmanShadowsEdition-2560x1440-1ababb36a948b5c732ab85a330787e85_2560x1440-8542c9faaf034219973add17b0749b9a",
-      "link": "https://store.epicgames.com/en-US/p/the-telltale-batman",
-      "start": "14 May 2026, 08:30 PM IST",
-      "end": "21 May 2026, 08:30 PM IST"
+      "title": "Tomb Raider I-III Remastered Starring Lara Croft",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/Wide_2560x1440-8d4d3759851d462299fc4c6cf13643b2",
+      "link": "https://store.epicgames.com/en-US/p/tomb-raider-iiii-remastered-538640",
+      "start": "21 May 2026, 08:30 PM IST",
+      "end": "28 May 2026, 08:30 PM IST"
     }
   ],
   "upcoming_games": [
     {
-      "title": "Mystery Game Week 21 Game 1",
+      "title": "Mystery Game Week 22 Game 1",
       "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-570394ae470a43859ce7366ea875532f",
       "link": "https://store.epicgames.com/en-US/p/[]",
-      "start": "21 May 2026, 08:30 PM IST",
-      "end": "28 May 2026, 08:30 PM IST"
+      "start": "28 May 2026, 08:30 PM IST",
+      "end": "04 Jun 2026, 08:30 PM IST"
     },
     {
-      "title": "Mystery Game Week 21 Game 2",
+      "title": "Mystery Game Week 22 Game 2",
       "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-570394ae470a43859ce7366ea875532f",
       "link": "https://store.epicgames.com/en-US/p/[]",
-      "start": "21 May 2026, 08:30 PM IST",
-      "end": "28 May 2026, 08:30 PM IST"
+      "start": "28 May 2026, 08:30 PM IST",
+      "end": "04 Jun 2026, 08:30 PM IST"
     }
   ]
 }
