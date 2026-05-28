@@ -35,16 +35,16 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **28 May 2026, 03:26 PM IST**  
+Last updated: **28 May 2026, 09:15 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Down in Bermuda** - free until `28 May 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/down-in-bermuda))
-- **Tomb Raider I-III Remastered Starring Lara Croft** - free until `28 May 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/tomb-raider-iiii-remastered-538640))
+- **Calico** - free until `04 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/calico))
+- **LONESTAR** - free until `04 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/lonestar-83f143))
 
 ### Upcoming on Epic
-- **Mystery Game Week 22 Game 1** - starts `28 May 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
-- **Mystery Game Week 22 Game 2** - starts `28 May 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
+- **Mystery Game Week 23 Game 1** - starts `04 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
+- **Mystery Game Week 23 Game 2** - starts `04 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
 
 ### Steam
 - **Bunny Guys!** - Free to Keep ([Open](https://store.steampowered.com/app/2218460/Bunny_Guys/?snr=1_7_7_2300_150_1))
