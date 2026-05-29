@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **29 May 2026, 08:27 PM IST**  
+Last updated: **30 May 2026, 01:51 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,7 +47,6 @@ Source: Epic fallback from saved state, Steam live data
 - **Mystery Game Week 23 Game 2** - starts `04 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
 
 ### Steam
-- **Bunny Guys!** - Free to Keep ([Open](https://store.steampowered.com/app/2218460/Bunny_Guys/?snr=1_7_7_2300_150_1))
 - **Dino running from a FURRY: GAMESFORFARM** - Free to Keep ([Open](https://store.steampowered.com/app/3343840/Dino_running_from_a_FURRY_GAMESFORFARM/?snr=1_7_7_2300_150_1))
 - **Drift86** - Free to Keep ([Open](https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
