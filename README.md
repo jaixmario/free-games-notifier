@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **03 Jun 2026, 04:23 PM IST**  
+Last updated: **03 Jun 2026, 10:13 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,7 +47,6 @@ Source: Epic fallback from saved state, Steam live data
 - **Mystery Game Week 23 Game 2** - starts `04 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
 
 ### Steam
-- **Drift86** - Free to Keep ([Open](https://store.steampowered.com/app/1070580/Drift86/?snr=1_7_7_2300_150_1))
 - **Gravity Circuit** - Free to Keep ([Open](https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1))
 - **Tell Me Why** - Free to Keep ([Open](https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1))
 - **Winexy** - Free to Keep ([Open](https://store.steampowered.com/app/577740/Winexy/?snr=1_7_7_2300_150_1))
