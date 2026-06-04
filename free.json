@@ -1,6 +1,6 @@
 {
-  "signature": "CURRENT:Calico,LONESTAR|UPCOMING:Mystery Game Week 23 Game 1,Mystery Game Week 23 Game 2",
-  "updated_at": "2026-05-28T15:45:51.170081+00:00",
+  "signature": "CURRENT:Calico,LONESTAR|UPCOMING:Rogue Waters,Songs of Conquest,Warhammer 40K Speed Freeks",
+  "updated_at": "2026-06-04T14:53:48.186369+00:00",
   "current_games": [
     {
       "title": "Calico",
@@ -19,18 +19,25 @@
   ],
   "upcoming_games": [
     {
-      "title": "Mystery Game Week 23 Game 1",
-      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-570394ae470a43859ce7366ea875532f",
-      "link": "https://store.epicgames.com/en-US/p/[]",
+      "title": "Rogue Waters",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/rogue-waters-wide_2560x1440-673011871d1a462292f9ff38cc0e3410",
+      "link": "https://store.epicgames.com/en-US/p/rogue-waters-9764d6",
       "start": "04 Jun 2026, 08:30 PM IST",
       "end": "11 Jun 2026, 08:30 PM IST"
     },
     {
-      "title": "Mystery Game Week 23 Game 2",
-      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/image23_1920x1080-570394ae470a43859ce7366ea875532f",
-      "link": "https://store.epicgames.com/en-US/p/[]",
+      "title": "Songs of Conquest",
+      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/s2_2560x1440-fd360f5c7abe499d90327b6999884e23",
+      "link": "https://store.epicgames.com/en-US/p/songs-of-conquest",
       "start": "04 Jun 2026, 08:30 PM IST",
       "end": "11 Jun 2026, 08:30 PM IST"
+    },
+    {
+      "title": "Warhammer 40K Speed Freeks",
+      "image": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
+      "link": "https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c",
+      "start": "11 Jun 2026, 08:30 PM IST",
+      "end": "18 Jun 2026, 08:30 PM IST"
     }
   ]
 }

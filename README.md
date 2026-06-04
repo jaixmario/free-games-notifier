@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **04 Jun 2026, 03:22 PM IST**  
+Last updated: **04 Jun 2026, 08:23 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -43,8 +43,9 @@ Source: Epic fallback from saved state, Steam live data
 - **LONESTAR** - free until `04 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/lonestar-83f143))
 
 ### Upcoming on Epic
-- **Mystery Game Week 23 Game 1** - starts `04 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
-- **Mystery Game Week 23 Game 2** - starts `04 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/[]))
+- **Rogue Waters** - starts `04 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/rogue-waters-9764d6))
+- **Songs of Conquest** - starts `04 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/songs-of-conquest))
+- **Warhammer 40K Speed Freeks** - starts `11 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c))
 
 ### Steam
 - **Gravity Circuit** - Free to Keep ([Open](https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1))
