@@ -1,12 +1,12 @@
 {
-  "signature": "Free Weekend::Marathon::https://store.steampowered.com/app/3065800|Free to Keep::Gravity Circuit::https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1|Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-06-05T19:50:44.714440+00:00",
+  "signature": "Free Weekend::Marathon::https://store.steampowered.com/app/3065800|Free to Keep::Gravity Circuit::https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1|Free to Keep::Remothered: Tormented Fathers::https://store.steampowered.com/app/633360/Remothered_Tormented_Fathers/?snr=1_7_7_2300_150_1|Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-06-07T19:18:42.896606+00:00",
   "games": [
     {
       "type": "Free to Keep",
       "title": "Gravity Circuit",
       "link": "https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/858710/761b419aab1804e49a9c53aca340c3a879ec3639/capsule_231x87_alt_assets_0.jpg?t=1780337507",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858710/761b419aab1804e49a9c53aca340c3a879ec3639/capsule_231x87_alt_assets_0.jpg?t=1780337507",
       "time": "Limited Time Offer"
     },
     {
@@ -18,9 +18,16 @@
     },
     {
       "type": "Free to Keep",
+      "title": "Remothered: Tormented Fathers",
+      "link": "https://store.steampowered.com/app/633360/Remothered_Tormented_Fathers/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633360/capsule_231x87.jpg?t=1778183363",
+      "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free to Keep",
       "title": "Tell Me Why",
       "link": "https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1180660/capsule_231x87.jpg?t=1780349055",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1180660/capsule_231x87.jpg?t=1780349055",
       "time": "Limited Time Offer"
     }
   ]
