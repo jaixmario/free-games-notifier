@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **08 Jun 2026, 09:13 PM IST**  
+Last updated: **09 Jun 2026, 01:40 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -48,8 +48,6 @@ Source: Epic fallback from saved state, Steam live data
 
 ### Steam
 - **Gravity Circuit** - Free to Keep ([Open](https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1))
-- **Marathon** - Free Weekend ([Open](https://store.steampowered.com/app/3065800))
-- **Remothered: Tormented Fathers** - Free to Keep ([Open](https://store.steampowered.com/app/633360/Remothered_Tormented_Fathers/?snr=1_7_7_2300_150_1))
 - **Tell Me Why** - Free to Keep ([Open](https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
