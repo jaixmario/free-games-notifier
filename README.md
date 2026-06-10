@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **10 Jun 2026, 03:24 PM IST**  
+Last updated: **10 Jun 2026, 08:58 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -43,6 +43,7 @@ Source: Epic fallback from saved state, Steam live data
 - **Songs of Conquest** - free until `11 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/songs-of-conquest))
 
 ### Upcoming on Epic
+- **Citizen Sleeper** - starts `18 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/citizen-sleeper-944858))
 - **ROBOBEAT** - starts `18 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/robobeat-5f084b))
 - **The Ouroboros King** - starts `11 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547))
 - **Warhammer 40K Speed Freeks** - starts `11 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c))

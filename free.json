@@ -1,6 +1,6 @@
 {
-  "signature": "CURRENT:Rogue Waters,Songs of Conquest|UPCOMING:ROBOBEAT,The Ouroboros King,Warhammer 40K Speed Freeks",
-  "updated_at": "2026-06-10T09:54:22.638811+00:00",
+  "signature": "CURRENT:Rogue Waters,Songs of Conquest|UPCOMING:Citizen Sleeper,ROBOBEAT,The Ouroboros King,Warhammer 40K Speed Freeks",
+  "updated_at": "2026-06-10T15:28:16.189810+00:00",
   "current_games": [
     {
       "title": "Rogue Waters",
@@ -18,6 +18,13 @@
     }
   ],
   "upcoming_games": [
+    {
+      "title": "Citizen Sleeper",
+      "image": "https://cdn1.epicgames.com/spt-assets/919d5976f3804d4cabb8ca90ea43a956/citizen-sleeper-xudwg.jpg",
+      "link": "https://store.epicgames.com/en-US/p/citizen-sleeper-944858",
+      "start": "18 Jun 2026, 08:30 PM IST",
+      "end": "25 Jun 2026, 08:30 PM IST"
+    },
     {
       "title": "ROBOBEAT",
       "image": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-1ojda.png",
