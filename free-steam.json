@@ -1,6 +1,6 @@
 {
-  "signature": "Free to Keep::Gravity Circuit::https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1|Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-06-08T20:10:41.366069+00:00",
+  "signature": "Free to Keep::Gravity Circuit::https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1|Free to Keep::Happy's Humble Burger Farm::https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/?snr=1_7_7_2300_150_1|Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1|Free to Keep::The Red Lantern::https://store.steampowered.com/app/1053710/The_Red_Lantern/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-06-11T15:54:50.385268+00:00",
   "games": [
     {
       "type": "Free to Keep",
@@ -11,9 +11,23 @@
     },
     {
       "type": "Free to Keep",
+      "title": "Happy's Humble Burger Farm",
+      "link": "https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1433340/75cd4069e00d807a5f738a9ab3809aab7396e48c/capsule_231x87_alt_assets_0.jpg?t=1781103474",
+      "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free to Keep",
       "title": "Tell Me Why",
       "link": "https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1180660/capsule_231x87.jpg?t=1780349055",
+      "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free to Keep",
+      "title": "The Red Lantern",
+      "link": "https://store.steampowered.com/app/1053710/The_Red_Lantern/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1053710/capsule_231x87.jpg?t=1779363205",
       "time": "Limited Time Offer"
     }
   ]

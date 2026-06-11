@@ -35,22 +35,22 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **11 Jun 2026, 03:48 PM IST**  
+Last updated: **11 Jun 2026, 09:24 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Rogue Waters** - free until `11 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/rogue-waters-9764d6))
-- **Songs of Conquest** - free until `11 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/songs-of-conquest))
+- **The Ouroboros King** - free until `18 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547))
+- **Warhammer 40K Speed Freeks** - free until `18 Jun 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c))
 
 ### Upcoming on Epic
 - **Citizen Sleeper** - starts `18 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/citizen-sleeper-944858))
 - **ROBOBEAT** - starts `18 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/robobeat-5f084b))
-- **The Ouroboros King** - starts `11 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547))
-- **Warhammer 40K Speed Freeks** - starts `11 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c))
 
 ### Steam
 - **Gravity Circuit** - Free to Keep ([Open](https://store.steampowered.com/app/858710/Gravity_Circuit/?snr=1_7_7_2300_150_1))
+- **Happy's Humble Burger Farm** - Free to Keep ([Open](https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/?snr=1_7_7_2300_150_1))
 - **Tell Me Why** - Free to Keep ([Open](https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1))
+- **The Red Lantern** - Free to Keep ([Open](https://store.steampowered.com/app/1053710/The_Red_Lantern/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---

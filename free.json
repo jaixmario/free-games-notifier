@@ -1,20 +1,20 @@
 {
-  "signature": "CURRENT:Rogue Waters,Songs of Conquest|UPCOMING:Citizen Sleeper,ROBOBEAT,The Ouroboros King,Warhammer 40K Speed Freeks",
-  "updated_at": "2026-06-10T15:28:16.189810+00:00",
+  "signature": "CURRENT:The Ouroboros King,Warhammer 40K Speed Freeks|UPCOMING:Citizen Sleeper,ROBOBEAT",
+  "updated_at": "2026-06-11T15:54:39.209675+00:00",
   "current_games": [
     {
-      "title": "Rogue Waters",
-      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/rogue-waters-wide_2560x1440-673011871d1a462292f9ff38cc0e3410",
-      "link": "https://store.epicgames.com/en-US/p/rogue-waters-9764d6",
-      "start": "04 Jun 2026, 08:30 PM IST",
-      "end": "11 Jun 2026, 08:30 PM IST"
+      "title": "The Ouroboros King",
+      "image": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg",
+      "link": "https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547",
+      "start": "11 Jun 2026, 08:30 PM IST",
+      "end": "18 Jun 2026, 08:30 PM IST"
     },
     {
-      "title": "Songs of Conquest",
-      "image": "https://cdn1.epicgames.com/offer/d5241c76f178492ea1540fce45616757/s2_2560x1440-fd360f5c7abe499d90327b6999884e23",
-      "link": "https://store.epicgames.com/en-US/p/songs-of-conquest",
-      "start": "04 Jun 2026, 08:30 PM IST",
-      "end": "11 Jun 2026, 08:30 PM IST"
+      "title": "Warhammer 40K Speed Freeks",
+      "image": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
+      "link": "https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c",
+      "start": "11 Jun 2026, 08:30 PM IST",
+      "end": "18 Jun 2026, 08:30 PM IST"
     }
   ],
   "upcoming_games": [
@@ -31,20 +31,6 @@
       "link": "https://store.epicgames.com/en-US/p/robobeat-5f084b",
       "start": "18 Jun 2026, 08:30 PM IST",
       "end": "25 Jun 2026, 08:30 PM IST"
-    },
-    {
-      "title": "The Ouroboros King",
-      "image": "https://cdn1.epicgames.com/spt-assets/33630d7105014582a478094e89953f49/the-ouroboros-king-jwabx.jpg",
-      "link": "https://store.epicgames.com/en-US/p/the-ouroboros-king-e1d547",
-      "start": "11 Jun 2026, 08:30 PM IST",
-      "end": "18 Jun 2026, 08:30 PM IST"
-    },
-    {
-      "title": "Warhammer 40K Speed Freeks",
-      "image": "https://cdn1.epicgames.com/spt-assets/a1af14251fb748fc9bda63bfc260f933/warhammer-40k-speed-freeks-1k4pq.jpg",
-      "link": "https://store.epicgames.com/en-US/p/warhammer-40k-speed-freeks-12879c",
-      "start": "11 Jun 2026, 08:30 PM IST",
-      "end": "18 Jun 2026, 08:30 PM IST"
     }
   ]
 }
