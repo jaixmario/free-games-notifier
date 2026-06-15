@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **15 Jun 2026, 05:27 PM IST**  
+Last updated: **15 Jun 2026, 10:50 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,11 +47,8 @@ Source: Epic fallback from saved state, Steam live data
 - **ROBOBEAT** - starts `18 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/robobeat-5f084b))
 
 ### Steam
-- **Eets** - Free to Keep ([Open](https://store.steampowered.com/app/6100/Eets/?snr=1_7_7_2300_150_1))
-- **Happy's Humble Burger Farm** - Free to Keep ([Open](https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/?snr=1_7_7_2300_150_1))
 - **Tell Me Why** - Free to Keep ([Open](https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1))
 - **The Red Lantern** - Free to Keep ([Open](https://store.steampowered.com/app/1053710/The_Red_Lantern/?snr=1_7_7_2300_150_1))
-- **Wild Terra 2: New Lands** - Free to Keep ([Open](https://store.steampowered.com/app/1134700/Wild_Terra_2_New_Lands/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---

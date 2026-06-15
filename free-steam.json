@@ -1,21 +1,7 @@
 {
-  "signature": "Free to Keep::Eets::https://store.steampowered.com/app/6100/Eets/?snr=1_7_7_2300_150_1|Free to Keep::Happy's Humble Burger Farm::https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/?snr=1_7_7_2300_150_1|Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1|Free to Keep::The Red Lantern::https://store.steampowered.com/app/1053710/The_Red_Lantern/?snr=1_7_7_2300_150_1|Free to Keep::Wild Terra 2: New Lands::https://store.steampowered.com/app/1134700/Wild_Terra_2_New_Lands/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-06-14T19:22:36.593250+00:00",
+  "signature": "Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1|Free to Keep::The Red Lantern::https://store.steampowered.com/app/1053710/The_Red_Lantern/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-06-15T17:20:08.319602+00:00",
   "games": [
-    {
-      "type": "Free to Keep",
-      "title": "Eets",
-      "link": "https://store.steampowered.com/app/6100/Eets/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/6100/fdac24d624d83e5517f60d040c2e91a8120387e9/capsule_231x87.jpg?t=1781284010",
-      "time": "Limited Time Offer"
-    },
-    {
-      "type": "Free to Keep",
-      "title": "Happy's Humble Burger Farm",
-      "link": "https://store.steampowered.com/app/1433340/Happys_Humble_Burger_Farm/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1433340/75cd4069e00d807a5f738a9ab3809aab7396e48c/capsule_231x87_alt_assets_0.jpg?t=1781355115",
-      "time": "Limited Time Offer"
-    },
     {
       "type": "Free to Keep",
       "title": "Tell Me Why",
@@ -27,14 +13,7 @@
       "type": "Free to Keep",
       "title": "The Red Lantern",
       "link": "https://store.steampowered.com/app/1053710/The_Red_Lantern/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1053710/capsule_231x87.jpg?t=1779363205",
-      "time": "Limited Time Offer"
-    },
-    {
-      "type": "Free to Keep",
-      "title": "Wild Terra 2: New Lands",
-      "link": "https://store.steampowered.com/app/1134700/Wild_Terra_2_New_Lands/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1134700/7abe4463e2580b811f712e3779761d931c4273c1/capsule_231x87_alt_assets_10.jpg?t=1781243229",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1053710/capsule_231x87.jpg?t=1781515814",
       "time": "Limited Time Offer"
     }
   ]
