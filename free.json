@@ -1,6 +1,6 @@
 {
-  "signature": "CURRENT:The Ouroboros King,Warhammer 40K Speed Freeks|UPCOMING:Citizen Sleeper,ROBOBEAT",
-  "updated_at": "2026-06-11T15:54:39.209675+00:00",
+  "signature": "CURRENT:The Ouroboros King,Warhammer 40K Speed Freeks|UPCOMING:Citizen Sleeper,ROBOBEAT,Voidwrought",
+  "updated_at": "2026-06-17T15:20:22.818776+00:00",
   "current_games": [
     {
       "title": "The Ouroboros King",
@@ -31,6 +31,13 @@
       "link": "https://store.epicgames.com/en-US/p/robobeat-5f084b",
       "start": "18 Jun 2026, 08:30 PM IST",
       "end": "25 Jun 2026, 08:30 PM IST"
+    },
+    {
+      "title": "Voidwrought",
+      "image": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg",
+      "link": "https://store.epicgames.com/en-US/p/voidwrought-ce8f4b",
+      "start": "25 Jun 2026, 08:30 PM IST",
+      "end": "02 Jul 2026, 08:30 PM IST"
     }
   ]
 }
