@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **21 Jun 2026, 03:14 PM IST**  
+Last updated: **21 Jun 2026, 07:33 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,9 +47,7 @@ Source: Epic fallback from saved state, Steam live data
 - **Voidwrought** - starts `25 Jun 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/voidwrought-ce8f4b))
 
 ### Steam
-- **Stellaris** - Free Weekend ([Open](https://store.steampowered.com/app/281990))
 - **Tell Me Why** - Free to Keep ([Open](https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1))
-- **Two Point Museum** - Free Weekend ([Open](https://store.steampowered.com/app/2185060))
 <!-- README_AUTO_SECTION:END -->
 
 ---

@@ -1,27 +1,13 @@
 {
-  "signature": "Free Weekend::Stellaris::https://store.steampowered.com/app/281990|Free Weekend::Two Point Museum::https://store.steampowered.com/app/2185060|Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-06-18T20:22:06.876224+00:00",
+  "signature": "Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-06-21T14:03:30.640310+00:00",
   "games": [
-    {
-      "type": "Free Weekend",
-      "title": "Stellaris",
-      "link": "https://store.steampowered.com/app/281990",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/7cfa91726992f7702ecde79c/78c014fb42bb79fb37f9a2c997aa0f987d97530b/spotlight_image_english.jpg?t=1780507969",
-      "time": "Play for free until %1$s."
-    },
     {
       "type": "Free to Keep",
       "title": "Tell Me Why",
       "link": "https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1180660/capsule_231x87.jpg?t=1780349055",
       "time": "Limited Time Offer"
-    },
-    {
-      "type": "Free Weekend",
-      "title": "Two Point Museum",
-      "link": "https://store.steampowered.com/app/2185060",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/037366dc986db60243e4cb51/cf96ec83daf75a932ce7d15c4f0766fa9117284f/spotlight_image_english.jpg?t=1781802229",
-      "time": "Play for free until %1$s."
     }
   ]
 }
