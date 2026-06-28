@@ -1,14 +1,7 @@
 {
-  "signature": "Free to Keep::POPGOES Arcade::https://store.steampowered.com/app/1986840/POPGOES_Arcade/?snr=1_7_7_2300_150_1|Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-06-26T19:43:14.656116+00:00",
+  "signature": "Free to Keep::Tell Me Why::https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-06-28T19:15:08.258717+00:00",
   "games": [
-    {
-      "type": "Free to Keep",
-      "title": "POPGOES Arcade",
-      "link": "https://store.steampowered.com/app/1986840/POPGOES_Arcade/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1986840/3eaa2b7af7c1fd35f060ae43769664548da629ad/capsule_231x87.jpg?t=1782494624",
-      "time": "Limited Time Offer"
-    },
     {
       "type": "Free to Keep",
       "title": "Tell Me Why",

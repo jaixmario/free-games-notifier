@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **28 Jun 2026, 07:10 PM IST**  
+Last updated: **29 Jun 2026, 12:45 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,7 +47,6 @@ Source: Epic fallback from saved state, Steam live data
 - **River City Girls 2** - starts `02 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a))
 
 ### Steam
-- **POPGOES Arcade** - Free to Keep ([Open](https://store.steampowered.com/app/1986840/POPGOES_Arcade/?snr=1_7_7_2300_150_1))
 - **Tell Me Why** - Free to Keep ([Open](https://store.steampowered.com/app/1180660/Tell_Me_Why/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
