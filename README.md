@@ -35,17 +35,16 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **02 Jul 2026, 07:23 PM IST**  
+Last updated: **03 Jul 2026, 12:49 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **RollerCoaster Tycoon 3 Complete Edition** - free until `02 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition))
-- **Voidwrought** - free until `02 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/voidwrought-ce8f4b))
+- **I Have No Mouth, and I Must Scream** - free until `09 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2))
+- **River City Girls 2** - free until `09 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a))
 
 ### Upcoming on Epic
-- **I Have No Mouth, and I Must Scream** - starts `02 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/i-have-no-mouth-and-i-must-scream-95c5c2))
 - **Nova Lands** - starts `09 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/nova-lands-4d1788))
-- **River City Girls 2** - starts `02 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a))
+- **Tattoo Tycoon** - starts `09 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c))
 
 ### Steam
 - No Steam freebies found.

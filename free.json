@@ -1,23 +1,7 @@
 {
-  "signature": "CURRENT:RollerCoaster Tycoon 3 Complete Edition,Voidwrought|UPCOMING:I Have No Mouth, and I Must Scream,Nova Lands,River City Girls 2",
-  "updated_at": "2026-07-02T02:57:56.495944+00:00",
+  "signature": "CURRENT:I Have No Mouth, and I Must Scream,River City Girls 2|UPCOMING:Nova Lands,Tattoo Tycoon",
+  "updated_at": "2026-07-02T19:19:57.570200+00:00",
   "current_games": [
-    {
-      "title": "RollerCoaster Tycoon 3 Complete Edition",
-      "image": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S5-1920x1080-689d96ca4d5a4e8de183b7a928960c87.jpg",
-      "link": "https://store.epicgames.com/en-US/p/rollercoaster-tycoon-3-complete-edition",
-      "start": "25 Jun 2026, 08:30 PM IST",
-      "end": "02 Jul 2026, 08:30 PM IST"
-    },
-    {
-      "title": "Voidwrought",
-      "image": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-bio8j.jpg",
-      "link": "https://store.epicgames.com/en-US/p/voidwrought-ce8f4b",
-      "start": "25 Jun 2026, 08:30 PM IST",
-      "end": "02 Jul 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "I Have No Mouth, and I Must Scream",
       "image": "https://cdn1.epicgames.com/spt-assets/b153ccd09d834353a8f27ffa9b41f5a2/i-have-no-mouth-and-i-must-scream-163j8.png",
@@ -26,6 +10,15 @@
       "end": "09 Jul 2026, 08:30 PM IST"
     },
     {
+      "title": "River City Girls 2",
+      "image": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png",
+      "link": "https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a",
+      "start": "02 Jul 2026, 08:30 PM IST",
+      "end": "09 Jul 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
       "title": "Nova Lands",
       "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
       "link": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
@@ -33,11 +26,11 @@
       "end": "16 Jul 2026, 08:30 PM IST"
     },
     {
-      "title": "River City Girls 2",
-      "image": "https://cdn1.epicgames.com/spt-assets/dfdcd48c05c6483284cb40b333dc71e4/river-city-girls-2-1hqkv.png",
-      "link": "https://store.epicgames.com/en-US/p/river-city-girls-2-77af3a",
-      "start": "02 Jul 2026, 08:30 PM IST",
-      "end": "09 Jul 2026, 08:30 PM IST"
+      "title": "Tattoo Tycoon",
+      "image": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
+      "link": "https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c",
+      "start": "09 Jul 2026, 08:30 PM IST",
+      "end": "16 Jul 2026, 08:30 PM IST"
     }
   ]
 }
