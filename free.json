@@ -1,6 +1,6 @@
 {
-  "signature": "CURRENT:I Have No Mouth, and I Must Scream,River City Girls 2|UPCOMING:Nova Lands,Tattoo Tycoon",
-  "updated_at": "2026-07-02T19:19:57.570200+00:00",
+  "signature": "CURRENT:I Have No Mouth, and I Must Scream,River City Girls 2|UPCOMING:Echo Generation: Midnight Edition,Nova Lands,Tattoo Tycoon",
+  "updated_at": "2026-07-08T19:20:27.899591+00:00",
   "current_games": [
     {
       "title": "I Have No Mouth, and I Must Scream",
@@ -18,6 +18,13 @@
     }
   ],
   "upcoming_games": [
+    {
+      "title": "Echo Generation: Midnight Edition",
+      "image": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg",
+      "link": "https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026",
+      "start": "16 Jul 2026, 08:30 PM IST",
+      "end": "23 Jul 2026, 08:30 PM IST"
+    },
     {
       "title": "Nova Lands",
       "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
