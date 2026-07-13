@@ -1,13 +1,5 @@
 {
-  "signature": "Free Weekend::Against the Storm::https://store.steampowered.com/app/1336490",
-  "updated_at": "2026-07-09T19:40:59.884390+00:00",
-  "games": [
-    {
-      "type": "Free Weekend",
-      "title": "Against the Storm",
-      "link": "https://store.steampowered.com/app/1336490",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/ed3dc19f3e8d0537838470f4/1bf9747ba15c9925b91c7abb73e6dd45b1757717/spotlight_image_english.png?t=1778638369",
-      "time": "Play for free until %1$s."
-    }
-  ]
+  "signature": "",
+  "updated_at": "2026-07-13T19:19:30.078140+00:00",
+  "games": []
 }
