@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **15 Jul 2026, 07:07 PM IST**  
+Last updated: **16 Jul 2026, 12:35 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -48,6 +48,7 @@ Source: Epic fallback from saved state, Steam live data
 - **Luto** - starts `16 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/luto-0a4ab3))
 
 ### Steam
+- **Catch Me!** - Free to Keep ([Open](https://store.steampowered.com/app/1741160/Catch_Me/?snr=1_7_7_2300_150_1))
 - **The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
