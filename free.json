@@ -1,23 +1,7 @@
 {
-  "signature": "CURRENT:Nova Lands,Tattoo Tycoon|UPCOMING:Echo Generation: Midnight Edition,Foretales,Luto",
-  "updated_at": "2026-07-15T13:37:36.026830+00:00",
+  "signature": "CURRENT:Echo Generation: Midnight Edition,Luto|UPCOMING:Foretales",
+  "updated_at": "2026-07-16T19:04:47.110542+00:00",
   "current_games": [
-    {
-      "title": "Nova Lands",
-      "image": "https://cdn1.epicgames.com/spt-assets/9a2764693c414ecda63d8f785452a4bb/nova-lands-offer-16wzy.png",
-      "link": "https://store.epicgames.com/en-US/p/nova-lands-4d1788",
-      "start": "09 Jul 2026, 08:30 PM IST",
-      "end": "16 Jul 2026, 08:30 PM IST"
-    },
-    {
-      "title": "Tattoo Tycoon",
-      "image": "https://cdn1.epicgames.com/spt-assets/0b68dfc82a014fe2ac9971f13e0e3ce5/tattoo-tycoon-11qwx.jpg",
-      "link": "https://store.epicgames.com/en-US/p/tattoo-tycoon-b4352c",
-      "start": "09 Jul 2026, 08:30 PM IST",
-      "end": "16 Jul 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "Echo Generation: Midnight Edition",
       "image": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg",
@@ -26,18 +10,20 @@
       "end": "23 Jul 2026, 08:30 PM IST"
     },
     {
-      "title": "Foretales",
-      "image": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
-      "link": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
-      "start": "23 Jul 2026, 08:30 PM IST",
-      "end": "30 Jul 2026, 08:30 PM IST"
-    },
-    {
       "title": "Luto",
       "image": "https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-14zrp.png",
       "link": "https://store.epicgames.com/en-US/p/luto-0a4ab3",
       "start": "16 Jul 2026, 08:30 PM IST",
       "end": "23 Jul 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Foretales",
+      "image": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
+      "link": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
+      "start": "23 Jul 2026, 08:30 PM IST",
+      "end": "30 Jul 2026, 08:30 PM IST"
     }
   ]
 }
