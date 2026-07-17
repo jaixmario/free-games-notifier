@@ -1,14 +1,7 @@
 {
-  "signature": "Free Weekend::Super Battle Golf::https://store.steampowered.com/app/4069520|Free to Keep::Catch Me!::https://store.steampowered.com/app/1741160/Catch_Me/?snr=1_7_7_2300_150_1|Free to Keep::The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack::https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-07-16T19:04:52.615102+00:00",
+  "signature": "Free Weekend::Super Battle Golf::https://store.steampowered.com/app/4069520|Free to Keep::The Life and Suffering of Sir Brante::https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/?snr=1_7_7_2300_150_1|Free to Keep::The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack::https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-07-17T19:02:38.698759+00:00",
   "games": [
-    {
-      "type": "Free to Keep",
-      "title": "Catch Me!",
-      "link": "https://store.steampowered.com/app/1741160/Catch_Me/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1741160/610839ff6ce64628e8e3fd3fbf6fe98981fb52da/capsule_231x87.jpg?t=1784133968",
-      "time": "Limited Time Offer"
-    },
     {
       "type": "Free Weekend",
       "title": "Super Battle Golf",
@@ -18,9 +11,16 @@
     },
     {
       "type": "Free to Keep",
+      "title": "The Life and Suffering of Sir Brante",
+      "link": "https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272160/capsule_231x87.jpg?t=1780003239",
+      "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free to Keep",
       "title": "The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack",
       "link": "https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4630450/ab88514babd7e5a1cb8292fcfed46d9b521c0673/capsule_231x87.jpg?t=1784109673",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4630450/ab88514babd7e5a1cb8292fcfed46d9b521c0673/capsule_231x87.jpg?t=1784109673",
       "time": "Limited Time Offer"
     }
   ]
