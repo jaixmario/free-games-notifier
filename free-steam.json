@@ -1,14 +1,7 @@
 {
-  "signature": "Free Weekend::Super Battle Golf::https://store.steampowered.com/app/4069520|Free to Keep::The Life and Suffering of Sir Brante::https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/?snr=1_7_7_2300_150_1|Free to Keep::The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack::https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-07-19T02:26:23.999184+00:00",
+  "signature": "Free to Keep::The Life and Suffering of Sir Brante::https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/?snr=1_7_7_2300_150_1|Free to Keep::The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack::https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-07-19T08:11:17.127862+00:00",
   "games": [
-    {
-      "type": "Free Weekend",
-      "title": "Super Battle Golf",
-      "link": "https://store.steampowered.com/app/4069520",
-      "image": "",
-      "time": "Play for free until %1$s."
-    },
     {
       "type": "Free to Keep",
       "title": "The Life and Suffering of Sir Brante",
