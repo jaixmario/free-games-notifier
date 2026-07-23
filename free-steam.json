@@ -1,19 +1,33 @@
 {
-  "signature": "Free to Keep::The Life and Suffering of Sir Brante::https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/?snr=1_7_7_2300_150_1|Free to Keep::The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack::https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-07-20T19:40:05.755136+00:00",
+  "signature": "Free Weekend::ICARUS::https://store.steampowered.com/app/1149460|Free Weekend::Killing Floor 3::https://store.steampowered.com/app/1430190|Free to Keep::The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack::https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Yet Another Zombie Defense HD::https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-07-23T19:10:54.782299+00:00",
   "games": [
     {
-      "type": "Free to Keep",
-      "title": "The Life and Suffering of Sir Brante",
-      "link": "https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1272160/capsule_231x87.jpg?t=1784565992",
-      "time": "Limited Time Offer"
+      "type": "Free Weekend",
+      "title": "ICARUS",
+      "link": "https://store.steampowered.com/app/1149460",
+      "image": "",
+      "time": "Play for free until %1$s."
+    },
+    {
+      "type": "Free Weekend",
+      "title": "Killing Floor 3",
+      "link": "https://store.steampowered.com/app/1430190",
+      "image": "",
+      "time": "Play for free until %1$s."
     },
     {
       "type": "Free to Keep",
       "title": "The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack",
       "link": "https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4630450/ab88514babd7e5a1cb8292fcfed46d9b521c0673/capsule_231x87.jpg?t=1784109673",
+      "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free to Keep",
+      "title": "Yet Another Zombie Defense HD",
+      "link": "https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/674750/capsule_231x87.jpg?t=1780089205",
       "time": "Limited Time Offer"
     }
   ]

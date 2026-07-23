@@ -35,19 +35,21 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **23 Jul 2026, 07:20 PM IST**  
+Last updated: **24 Jul 2026, 12:40 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Echo Generation: Midnight Edition** - free until `23 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026))
-- **Luto** - free until `23 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/luto-0a4ab3))
+- **Foretales** - free until `30 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/foretales-d6c5bd))
 
 ### Upcoming on Epic
-- **Foretales** - starts `23 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/foretales-d6c5bd))
+- **OTXO** - starts `30 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/otxo-396b8b))
+- **Sol Cesto** - starts `30 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/sol-cesto-e9b803))
 
 ### Steam
-- **The Life and Suffering of Sir Brante** - Free to Keep ([Open](https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/?snr=1_7_7_2300_150_1))
+- **ICARUS** - Free Weekend ([Open](https://store.steampowered.com/app/1149460))
+- **Killing Floor 3** - Free Weekend ([Open](https://store.steampowered.com/app/1430190))
 - **The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1))
+- **Yet Another Zombie Defense HD** - Free to Keep ([Open](https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---

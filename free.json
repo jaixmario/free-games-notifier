@@ -1,29 +1,29 @@
 {
-  "signature": "CURRENT:Echo Generation: Midnight Edition,Luto|UPCOMING:Foretales",
-  "updated_at": "2026-07-16T19:04:47.110542+00:00",
+  "signature": "CURRENT:Foretales|UPCOMING:OTXO,Sol Cesto",
+  "updated_at": "2026-07-23T19:10:48.251615+00:00",
   "current_games": [
-    {
-      "title": "Echo Generation: Midnight Edition",
-      "image": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-49ac1.jpg",
-      "link": "https://store.epicgames.com/en-US/p/echo-generation-midnight-edition-069026",
-      "start": "16 Jul 2026, 08:30 PM IST",
-      "end": "23 Jul 2026, 08:30 PM IST"
-    },
-    {
-      "title": "Luto",
-      "image": "https://cdn1.epicgames.com/spt-assets/eda0432529164b29b8a659d627d660e4/luto-14zrp.png",
-      "link": "https://store.epicgames.com/en-US/p/luto-0a4ab3",
-      "start": "16 Jul 2026, 08:30 PM IST",
-      "end": "23 Jul 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "Foretales",
       "image": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
       "link": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
       "start": "23 Jul 2026, 08:30 PM IST",
       "end": "30 Jul 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "OTXO",
+      "image": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg",
+      "link": "https://store.epicgames.com/en-US/p/otxo-396b8b",
+      "start": "30 Jul 2026, 08:30 PM IST",
+      "end": "06 Aug 2026, 08:30 PM IST"
+    },
+    {
+      "title": "Sol Cesto",
+      "image": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-1ara2.png",
+      "link": "https://store.epicgames.com/en-US/p/sol-cesto-e9b803",
+      "start": "30 Jul 2026, 08:30 PM IST",
+      "end": "06 Aug 2026, 08:30 PM IST"
     }
   ]
 }
