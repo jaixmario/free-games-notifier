@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **26 Jul 2026, 01:51 PM IST**  
+Last updated: **26 Jul 2026, 06:44 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -46,6 +46,8 @@ Source: Epic fallback from saved state, Steam live data
 - **Sol Cesto** - starts `30 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/sol-cesto-e9b803))
 
 ### Steam
+- **ICARUS** - Free Weekend ([Open](https://store.steampowered.com/app/1149460))
+- **Killing Floor 3** - Free Weekend ([Open](https://store.steampowered.com/app/1430190))
 - **The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1))
 - **Yet Another Zombie Defense HD** - Free to Keep ([Open](https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
