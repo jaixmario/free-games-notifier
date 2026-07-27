@@ -1,21 +1,7 @@
 {
-  "signature": "Free Weekend::ICARUS::https://store.steampowered.com/app/1149460|Free Weekend::Killing Floor 3::https://store.steampowered.com/app/1430190|Free to Keep::The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack::https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Yet Another Zombie Defense HD::https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-07-26T13:14:03.850602+00:00",
+  "signature": "Free to Keep::The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack::https://store.steampowered.com/app/4630450/The_Mound_Omen_of_Cthulhu__Lost_Explorers_Swords_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Yet Another Zombie Defense HD::https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-07-27T19:22:26.522956+00:00",
   "games": [
-    {
-      "type": "Free Weekend",
-      "title": "ICARUS",
-      "link": "https://store.steampowered.com/app/1149460",
-      "image": "",
-      "time": "Play for free until %1$s."
-    },
-    {
-      "type": "Free Weekend",
-      "title": "Killing Floor 3",
-      "link": "https://store.steampowered.com/app/1430190",
-      "image": "",
-      "time": "Play for free until %1$s."
-    },
     {
       "type": "Free to Keep",
       "title": "The Mound: Omen of Cthulhu – Lost Explorers' Swords Pack",
