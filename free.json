@@ -1,6 +1,6 @@
 {
-  "signature": "CURRENT:Foretales|UPCOMING:OTXO,Sol Cesto",
-  "updated_at": "2026-07-23T19:10:48.251615+00:00",
+  "signature": "CURRENT:Foretales|UPCOMING:Beacon Pines,OTXO,Sol Cesto",
+  "updated_at": "2026-07-29T14:03:04.591067+00:00",
   "current_games": [
     {
       "title": "Foretales",
@@ -11,6 +11,13 @@
     }
   ],
   "upcoming_games": [
+    {
+      "title": "Beacon Pines",
+      "image": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-1l6ky.jpg",
+      "link": "https://store.epicgames.com/en-US/p/beacon-pines-629fc3",
+      "start": "06 Aug 2026, 08:30 PM IST",
+      "end": "13 Aug 2026, 08:30 PM IST"
+    },
     {
       "title": "OTXO",
       "image": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg",

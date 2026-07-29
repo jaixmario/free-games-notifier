@@ -35,13 +35,14 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **29 Jul 2026, 02:05 PM IST**  
+Last updated: **29 Jul 2026, 07:33 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
 - **Foretales** - free until `30 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/foretales-d6c5bd))
 
 ### Upcoming on Epic
+- **Beacon Pines** - starts `06 Aug 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/beacon-pines-629fc3))
 - **OTXO** - starts `30 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/otxo-396b8b))
 - **Sol Cesto** - starts `30 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/sol-cesto-e9b803))
 
