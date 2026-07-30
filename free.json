@@ -1,23 +1,7 @@
 {
-  "signature": "CURRENT:Foretales|UPCOMING:Beacon Pines,OTXO,Sol Cesto",
-  "updated_at": "2026-07-29T14:03:04.591067+00:00",
+  "signature": "CURRENT:OTXO,Sol Cesto|UPCOMING:Beacon Pines,We Were Here Together",
+  "updated_at": "2026-07-30T19:20:40.370490+00:00",
   "current_games": [
-    {
-      "title": "Foretales",
-      "image": "https://cdn1.epicgames.com/spt-assets/2b593b82aea84695b1608d74d3850ceb/foretales-offer-urvzn.jpg",
-      "link": "https://store.epicgames.com/en-US/p/foretales-d6c5bd",
-      "start": "23 Jul 2026, 08:30 PM IST",
-      "end": "30 Jul 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
-    {
-      "title": "Beacon Pines",
-      "image": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-1l6ky.jpg",
-      "link": "https://store.epicgames.com/en-US/p/beacon-pines-629fc3",
-      "start": "06 Aug 2026, 08:30 PM IST",
-      "end": "13 Aug 2026, 08:30 PM IST"
-    },
     {
       "title": "OTXO",
       "image": "https://cdn1.epicgames.com/spt-assets/f6da0031691c4d94a6e21255b18c1710/otxo-wtcug.jpg",
@@ -31,6 +15,22 @@
       "link": "https://store.epicgames.com/en-US/p/sol-cesto-e9b803",
       "start": "30 Jul 2026, 08:30 PM IST",
       "end": "06 Aug 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Beacon Pines",
+      "image": "https://cdn1.epicgames.com/spt-assets/c89a3b955d704c3c97ddd2aba5265a38/beacon-pines-offer-1l6ky.jpg",
+      "link": "https://store.epicgames.com/en-US/p/beacon-pines-629fc3",
+      "start": "06 Aug 2026, 08:30 PM IST",
+      "end": "13 Aug 2026, 08:30 PM IST"
+    },
+    {
+      "title": "We Were Here Together",
+      "image": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-1w9jc.png",
+      "link": "https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66",
+      "start": "06 Aug 2026, 08:30 PM IST",
+      "end": "13 Aug 2026, 08:30 PM IST"
     }
   ]
 }

@@ -35,19 +35,19 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **30 Jul 2026, 07:21 PM IST**  
+Last updated: **31 Jul 2026, 12:50 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Foretales** - free until `30 Jul 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/foretales-d6c5bd))
+- **OTXO** - free until `06 Aug 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/otxo-396b8b))
+- **Sol Cesto** - free until `06 Aug 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/sol-cesto-e9b803))
 
 ### Upcoming on Epic
 - **Beacon Pines** - starts `06 Aug 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/beacon-pines-629fc3))
-- **OTXO** - starts `30 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/otxo-396b8b))
-- **Sol Cesto** - starts `30 Jul 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/sol-cesto-e9b803))
+- **We Were Here Together** - starts `06 Aug 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/we-were-here-together-6a6d66))
 
 ### Steam
-- **Yet Another Zombie Defense HD** - Free to Keep ([Open](https://store.steampowered.com/app/674750/Yet_Another_Zombie_Defense_HD/?snr=1_7_7_2300_150_1))
+- **Necesse** - Free Weekend ([Open](https://store.steampowered.com/app/1169040))
 <!-- README_AUTO_SECTION:END -->
 
 ---
