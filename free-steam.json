@@ -1,13 +1,5 @@
 {
-  "signature": "Free Weekend::Necesse::https://store.steampowered.com/app/1169040",
-  "updated_at": "2026-07-31T13:57:37.713697+00:00",
-  "games": [
-    {
-      "type": "Free Weekend",
-      "title": "Necesse",
-      "link": "https://store.steampowered.com/app/1169040",
-      "image": "",
-      "time": "Offer ends %1$s."
-    }
-  ]
+  "signature": "",
+  "updated_at": "2026-08-03T19:25:57.579456+00:00",
+  "games": []
 }
