@@ -1,5 +1,13 @@
 {
-  "signature": "",
-  "updated_at": "2026-08-03T19:25:57.579456+00:00",
-  "games": []
+  "signature": "Free to Keep::Moonlighter::https://store.steampowered.com/app/606150/Moonlighter/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-08-05T19:24:59.248065+00:00",
+  "games": [
+    {
+      "type": "Free to Keep",
+      "title": "Moonlighter",
+      "link": "https://store.steampowered.com/app/606150/Moonlighter/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606150/0ce5d10f8dfca4114ddc7579f1edc0e700bd3deb/capsule_231x87.jpg?t=1785952913",
+      "time": "Limited Time Offer"
+    }
+  ]
 }
