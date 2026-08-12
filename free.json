@@ -1,6 +1,6 @@
 {
-  "signature": "CURRENT:Beacon Pines,We Were Here Together|UPCOMING:Caravan SandWitch",
-  "updated_at": "2026-08-06T23:55:07.392871+00:00",
+  "signature": "CURRENT:Beacon Pines,We Were Here Together|UPCOMING:Caravan SandWitch,Cardpocalypse Standard Edition",
+  "updated_at": "2026-08-12T18:57:30.709647+00:00",
   "current_games": [
     {
       "title": "Beacon Pines",
@@ -24,6 +24,13 @@
       "link": "https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58",
       "start": "13 Aug 2026, 08:30 PM IST",
       "end": "20 Aug 2026, 08:30 PM IST"
+    },
+    {
+      "title": "Cardpocalypse Standard Edition",
+      "image": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df",
+      "link": "https://store.epicgames.com/en-US/p/cardpocalypse",
+      "start": "20 Aug 2026, 08:30 PM IST",
+      "end": "27 Aug 2026, 08:30 PM IST"
     }
   ]
 }

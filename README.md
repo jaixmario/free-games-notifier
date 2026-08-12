@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **12 Aug 2026, 06:31 PM IST**  
+Last updated: **13 Aug 2026, 12:27 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -44,6 +44,7 @@ Source: Epic fallback from saved state, Steam live data
 
 ### Upcoming on Epic
 - **Caravan SandWitch** - starts `13 Aug 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58))
+- **Cardpocalypse Standard Edition** - starts `20 Aug 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/cardpocalypse))
 
 ### Steam
 - No Steam freebies found.
