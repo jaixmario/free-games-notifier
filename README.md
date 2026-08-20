@@ -35,18 +35,19 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **20 Aug 2026, 06:10 PM IST**  
+Last updated: **21 Aug 2026, 12:04 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Caravan SandWitch** - free until `20 Aug 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/caravan-sandwitch-05ff58))
+- **Cardpocalypse Standard Edition** - free until `27 Aug 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/cardpocalypse))
+- **Epic Mage Bundle** - free until `27 Aug 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/albion-online-epic-mage-bundle-2ceb19))
 
 ### Upcoming on Epic
-- **Cardpocalypse Standard Edition** - starts `20 Aug 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/cardpocalypse))
-- **Epic Mage Bundle** - starts `20 Aug 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/albion-online-epic-mage-bundle-2ceb19))
+- **Breathedge** - starts `27 Aug 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/breathedge))
+- **Rival Stars Horse Racing : Desktop Edition** - starts `27 Aug 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de))
 
 ### Steam
-- **Deponia** - Free to Keep ([Open](https://store.steampowered.com/app/214340/Deponia/?snr=1_7_7_2300_150_1))
+- **Over The Top: WWI** - Free Weekend ([Open](https://store.steampowered.com/app/2778610))
 <!-- README_AUTO_SECTION:END -->
 
 ---
