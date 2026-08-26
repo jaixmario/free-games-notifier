@@ -1,14 +1,7 @@
 {
-  "signature": "Free to Keep::Dokimon Quest::https://store.steampowered.com/app/2019300/Dokimon_Quest/?snr=1_7_7_2300_150_1|Free to Keep::Microsoft Flight Simulator Suite: Themes Reimagined::https://store.steampowered.com/app/5004030/Microsoft_Flight_Simulator_Suite_Themes_Reimagined/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-08-24T18:35:05.827806+00:00",
+  "signature": "Free to Keep::Microsoft Flight Simulator Suite: Themes Reimagined::https://store.steampowered.com/app/5004030/Microsoft_Flight_Simulator_Suite_Themes_Reimagined/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-08-26T19:43:05.954103+00:00",
   "games": [
-    {
-      "type": "Free to Keep",
-      "title": "Dokimon Quest",
-      "link": "https://store.steampowered.com/app/2019300/Dokimon_Quest/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2019300/capsule_231x87.jpg?t=1787586999",
-      "time": "Limited Time Offer"
-    },
     {
       "type": "Free to Keep",
       "title": "Microsoft Flight Simulator Suite: Themes Reimagined",
