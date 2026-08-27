@@ -35,16 +35,15 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **27 Aug 2026, 12:41 PM IST**  
+Last updated: **28 Aug 2026, 03:12 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Cardpocalypse Standard Edition** - free until `27 Aug 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/cardpocalypse))
-- **Epic Mage Bundle** - free until `27 Aug 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/albion-online-epic-mage-bundle-2ceb19))
+- **Breathedge** - free until `03 Sep 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/breathedge))
+- **Rival Stars Horse Racing : Desktop Edition** - free until `03 Sep 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de))
 
 ### Upcoming on Epic
-- **Breathedge** - starts `27 Aug 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/breathedge))
-- **Rival Stars Horse Racing : Desktop Edition** - starts `27 Aug 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de))
+- **Alone With You** - starts `03 Sep 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/alone-with-you-028a15))
 
 ### Steam
 - **Microsoft Flight Simulator Suite: Themes Reimagined** - Free to Keep ([Open](https://store.steampowered.com/app/5004030/Microsoft_Flight_Simulator_Suite_Themes_Reimagined/?snr=1_7_7_2300_150_1))

@@ -1,23 +1,7 @@
 {
-  "signature": "CURRENT:Cardpocalypse Standard Edition,Epic Mage Bundle|UPCOMING:Breathedge,Rival Stars Horse Racing : Desktop Edition",
-  "updated_at": "2026-08-20T18:34:08.225268+00:00",
+  "signature": "CURRENT:Breathedge,Rival Stars Horse Racing : Desktop Edition|UPCOMING:Alone With You",
+  "updated_at": "2026-08-27T21:42:33.497292+00:00",
   "current_games": [
-    {
-      "title": "Cardpocalypse Standard Edition",
-      "image": "https://cdn1.epicgames.com/offer/2bfd5ca43ef443739ada168e017e1b78/s1_2560x1440-8d68e37943d666ad0f05093481c4d7df",
-      "link": "https://store.epicgames.com/en-US/p/cardpocalypse",
-      "start": "20 Aug 2026, 08:30 PM IST",
-      "end": "27 Aug 2026, 08:30 PM IST"
-    },
-    {
-      "title": "Epic Mage Bundle",
-      "image": "https://cdn1.epicgames.com/spt-assets/92837229023341268267ff64cae425a5/albion-online-7k7df.png",
-      "link": "https://store.epicgames.com/en-US/p/albion-online-epic-mage-bundle-2ceb19",
-      "start": "20 Aug 2026, 08:30 PM IST",
-      "end": "27 Aug 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "Breathedge",
       "image": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg",
@@ -31,6 +15,15 @@
       "link": "https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de",
       "start": "27 Aug 2026, 08:30 PM IST",
       "end": "03 Sep 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Alone With You",
+      "image": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png",
+      "link": "https://store.epicgames.com/en-US/p/alone-with-you-028a15",
+      "start": "03 Sep 2026, 08:30 PM IST",
+      "end": "10 Sep 2026, 08:30 PM IST"
     }
   ]
 }
