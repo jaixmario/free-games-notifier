@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **01 Sep 2026, 09:31 PM IST**  
+Last updated: **02 Sep 2026, 02:00 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -46,7 +46,7 @@ Source: Epic fallback from saved state, Steam live data
 - **Alone With You** - starts `03 Sep 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/alone-with-you-028a15))
 
 ### Steam
-- **Microsoft Flight Simulator Suite: Themes Reimagined** - Free to Keep ([Open](https://store.steampowered.com/app/5004030/Microsoft_Flight_Simulator_Suite_Themes_Reimagined/?snr=1_7_7_2300_150_1))
+- No Steam freebies found.
 <!-- README_AUTO_SECTION:END -->
 
 ---
