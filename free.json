@@ -1,29 +1,29 @@
 {
-  "signature": "CURRENT:Breathedge,Rival Stars Horse Racing : Desktop Edition|UPCOMING:Alone With You",
-  "updated_at": "2026-08-27T21:42:33.497292+00:00",
+  "signature": "CURRENT:Alone With You|UPCOMING:Astral Ascent,Luftrausers",
+  "updated_at": "2026-09-03T15:44:42.025853+00:00",
   "current_games": [
-    {
-      "title": "Breathedge",
-      "image": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/egs-breathedge-redruinssoftworks-s1-2560x1440-76fd08cd9c2d-2560x1440-783424f6d4a7f32a0e75fc074f2f928e.jpg",
-      "link": "https://store.epicgames.com/en-US/p/breathedge",
-      "start": "27 Aug 2026, 08:30 PM IST",
-      "end": "03 Sep 2026, 08:30 PM IST"
-    },
-    {
-      "title": "Rival Stars Horse Racing : Desktop Edition",
-      "image": "https://cdn1.epicgames.com/spt-assets/3355791f5b4740618adac242cf0dd46c/rival-stars-horse-racing-scu1x.jpg",
-      "link": "https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de",
-      "start": "27 Aug 2026, 08:30 PM IST",
-      "end": "03 Sep 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "Alone With You",
       "image": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-cllc3.png",
       "link": "https://store.epicgames.com/en-US/p/alone-with-you-028a15",
       "start": "03 Sep 2026, 08:30 PM IST",
       "end": "10 Sep 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Astral Ascent",
+      "image": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
+      "link": "https://store.epicgames.com/en-US/p/astral-ascent-b33bc2",
+      "start": "10 Sep 2026, 08:30 PM IST",
+      "end": "17 Sep 2026, 08:30 PM IST"
+    },
+    {
+      "title": "Luftrausers",
+      "image": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
+      "link": "https://store.epicgames.com/en-US/p/luftrausers-51e5e9",
+      "start": "10 Sep 2026, 08:30 PM IST",
+      "end": "17 Sep 2026, 08:30 PM IST"
     }
   ]
 }

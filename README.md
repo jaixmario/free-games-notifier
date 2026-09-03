@@ -35,15 +35,15 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **03 Sep 2026, 04:08 PM IST**  
+Last updated: **03 Sep 2026, 09:14 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Breathedge** - free until `03 Sep 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/breathedge))
-- **Rival Stars Horse Racing : Desktop Edition** - free until `03 Sep 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/rival-stars-horse-racing-dd09de))
+- **Alone With You** - free until `10 Sep 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/alone-with-you-028a15))
 
 ### Upcoming on Epic
-- **Alone With You** - starts `03 Sep 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/alone-with-you-028a15))
+- **Astral Ascent** - starts `10 Sep 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/astral-ascent-b33bc2))
+- **Luftrausers** - starts `10 Sep 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/luftrausers-51e5e9))
 
 ### Steam
 - No Steam freebies found.
