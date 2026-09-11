@@ -1,13 +1,5 @@
 {
-  "signature": "Free Weekend::F1® 25::https://store.steampowered.com/app/3059520",
-  "updated_at": "2026-09-10T20:23:48.791135+00:00",
-  "games": [
-    {
-      "type": "Free Weekend",
-      "title": "F1® 25",
-      "link": "https://store.steampowered.com/app/3059520",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/15472edf76da51ffb6d18095/41e3a6a9bdc09f540982a62f72e5e38ec3ce6966/vertical_capsule_english.png?t=1788971587",
-      "time": "Offer ends %1$s."
-    }
-  ]
+  "signature": "",
+  "updated_at": "2026-09-11T20:24:28.742353+00:00",
+  "games": []
 }
