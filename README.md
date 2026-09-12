@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **12 Sep 2026, 01:54 AM IST**  
+Last updated: **12 Sep 2026, 08:31 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,7 +47,7 @@ Source: Epic fallback from saved state, Steam live data
 - **Shogun Showdown** - starts `17 Sep 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/shogun-showdown-61832d))
 
 ### Steam
-- No Steam freebies found.
+- **F1® 25** - Free Weekend ([Open](https://store.steampowered.com/app/3059520))
 <!-- README_AUTO_SECTION:END -->
 
 ---
