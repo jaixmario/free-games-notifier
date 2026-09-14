@@ -1,20 +1,13 @@
 {
-  "signature": "Free Weekend::F1® 25::https://store.steampowered.com/app/3059520|Free to Keep::Crystal Crisis::https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-09-14T11:43:52.453983+00:00",
+  "signature": "Free to Keep::Crystal Crisis::https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-09-14T17:38:07.982188+00:00",
   "games": [
     {
       "type": "Free to Keep",
       "title": "Crystal Crisis",
       "link": "https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447700/capsule_231x87.jpg?t=1789325105",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447700/capsule_231x87.jpg?t=1789325105",
       "time": "Limited Time Offer"
-    },
-    {
-      "type": "Free Weekend",
-      "title": "F1® 25",
-      "link": "https://store.steampowered.com/app/3059520",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/15472edf76da51ffb6d18095/41e3a6a9bdc09f540982a62f72e5e38ec3ce6966/vertical_capsule_english.png?t=1788971587",
-      "time": "Offer ends %1$s."
     }
   ]
 }
