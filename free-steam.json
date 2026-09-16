@@ -1,12 +1,19 @@
 {
-  "signature": "Free to Keep::Crystal Crisis::https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-09-14T17:38:07.982188+00:00",
+  "signature": "Free to Keep::Crystal Crisis::https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1|Free to Keep::Space Menace::https://store.steampowered.com/app/2000040/Space_Menace/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-09-16T20:50:48.917956+00:00",
   "games": [
     {
       "type": "Free to Keep",
       "title": "Crystal Crisis",
       "link": "https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447700/capsule_231x87.jpg?t=1789325105",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/447700/capsule_231x87.jpg?t=1789325105",
+      "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free to Keep",
+      "title": "Space Menace",
+      "link": "https://store.steampowered.com/app/2000040/Space_Menace/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2000040/capsule_231x87.jpg?t=1789577223",
       "time": "Limited Time Offer"
     }
   ]

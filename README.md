@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **16 Sep 2026, 09:34 PM IST**  
+Last updated: **17 Sep 2026, 02:20 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -49,6 +49,7 @@ Source: Epic fallback from saved state, Steam live data
 
 ### Steam
 - **Crystal Crisis** - Free to Keep ([Open](https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1))
+- **Space Menace** - Free to Keep ([Open](https://store.steampowered.com/app/2000040/Space_Menace/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---
