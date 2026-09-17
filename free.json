@@ -1,30 +1,7 @@
 {
-  "signature": "CURRENT:Astral Ascent,Luftrausers|UPCOMING:Mechabellum,Mindcop,Shogun Showdown",
-  "updated_at": "2026-09-16T16:04:49.429961+00:00",
+  "signature": "CURRENT:Mindcop,Shogun Showdown|UPCOMING:Astrea Six Sided Oracles,Mechabellum",
+  "updated_at": "2026-09-17T16:11:57.415542+00:00",
   "current_games": [
-    {
-      "title": "Astral Ascent",
-      "image": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
-      "link": "https://store.epicgames.com/en-US/p/astral-ascent-b33bc2",
-      "start": "10 Sep 2026, 08:30 PM IST",
-      "end": "17 Sep 2026, 08:30 PM IST"
-    },
-    {
-      "title": "Luftrausers",
-      "image": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
-      "link": "https://store.epicgames.com/en-US/p/luftrausers-51e5e9",
-      "start": "10 Sep 2026, 08:30 PM IST",
-      "end": "17 Sep 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
-    {
-      "title": "Mechabellum",
-      "image": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg",
-      "link": "https://store.epicgames.com/en-US/p/mechabellum-88a843",
-      "start": "24 Sep 2026, 08:30 PM IST",
-      "end": "01 Oct 2026, 08:30 PM IST"
-    },
     {
       "title": "Mindcop",
       "image": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
@@ -38,6 +15,22 @@
       "link": "https://store.epicgames.com/en-US/p/shogun-showdown-61832d",
       "start": "17 Sep 2026, 08:30 PM IST",
       "end": "24 Sep 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Astrea Six Sided Oracles",
+      "image": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
+      "link": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
+      "start": "24 Sep 2026, 08:30 PM IST",
+      "end": "01 Oct 2026, 08:30 PM IST"
+    },
+    {
+      "title": "Mechabellum",
+      "image": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg",
+      "link": "https://store.epicgames.com/en-US/p/mechabellum-88a843",
+      "start": "24 Sep 2026, 08:30 PM IST",
+      "end": "01 Oct 2026, 08:30 PM IST"
     }
   ]
 }

@@ -35,20 +35,20 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **17 Sep 2026, 04:25 PM IST**  
+Last updated: **17 Sep 2026, 09:42 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Astral Ascent** - free until `17 Sep 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/astral-ascent-b33bc2))
-- **Luftrausers** - free until `17 Sep 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/luftrausers-51e5e9))
+- **Mindcop** - free until `24 Sep 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/mindcop-78e6c1))
+- **Shogun Showdown** - free until `24 Sep 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/shogun-showdown-61832d))
 
 ### Upcoming on Epic
+- **Astrea Six Sided Oracles** - starts `24 Sep 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949))
 - **Mechabellum** - starts `24 Sep 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/mechabellum-88a843))
-- **Mindcop** - starts `17 Sep 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/mindcop-78e6c1))
-- **Shogun Showdown** - starts `17 Sep 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/shogun-showdown-61832d))
 
 ### Steam
 - **Crystal Crisis** - Free to Keep ([Open](https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1))
+- **Dying Light: The Beast - Discharge Weapon Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4355480/Dying_Light_The_Beast__Discharge_Weapon_Pack/?snr=1_7_7_2300_150_1))
 - **Space Menace** - Free to Keep ([Open](https://store.steampowered.com/app/2000040/Space_Menace/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
