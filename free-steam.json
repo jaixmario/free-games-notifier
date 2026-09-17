@@ -1,6 +1,6 @@
 {
-  "signature": "Free to Keep::Crystal Crisis::https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1|Free to Keep::Dying Light: The Beast - Discharge Weapon Pack::https://store.steampowered.com/app/4355480/Dying_Light_The_Beast__Discharge_Weapon_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Space Menace::https://store.steampowered.com/app/2000040/Space_Menace/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-09-17T16:12:03.546455+00:00",
+  "signature": "Free Weekend::Jump Space::https://store.steampowered.com/app/1757300|Free to Keep::Crystal Crisis::https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1|Free to Keep::Dying Light: The Beast - Discharge Weapon Pack::https://store.steampowered.com/app/4355480/Dying_Light_The_Beast__Discharge_Weapon_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Space Menace::https://store.steampowered.com/app/2000040/Space_Menace/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-09-17T20:55:53.935992+00:00",
   "games": [
     {
       "type": "Free to Keep",
@@ -15,6 +15,13 @@
       "link": "https://store.steampowered.com/app/4355480/Dying_Light_The_Beast__Discharge_Weapon_Pack/?snr=1_7_7_2300_150_1",
       "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4355480/cb5feffeebc9d3dab3ca0dbba5178f7a5102a100/capsule_231x87.jpg?t=1789400832",
       "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free Weekend",
+      "title": "Jump Space",
+      "link": "https://store.steampowered.com/app/1757300",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/fb0922d49381db30c9175782/0bdb512185035484e5e5f30f06977801b1dbf13f/vertical_capsule_english.png?t=1788885875",
+      "time": "Offer ends %1$s."
     },
     {
       "type": "Free to Keep",

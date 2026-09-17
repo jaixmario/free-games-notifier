@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **17 Sep 2026, 09:42 PM IST**  
+Last updated: **18 Sep 2026, 02:25 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -49,6 +49,7 @@ Source: Epic fallback from saved state, Steam live data
 ### Steam
 - **Crystal Crisis** - Free to Keep ([Open](https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1))
 - **Dying Light: The Beast - Discharge Weapon Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4355480/Dying_Light_The_Beast__Discharge_Weapon_Pack/?snr=1_7_7_2300_150_1))
+- **Jump Space** - Free Weekend ([Open](https://store.steampowered.com/app/1757300))
 - **Space Menace** - Free to Keep ([Open](https://store.steampowered.com/app/2000040/Space_Menace/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
