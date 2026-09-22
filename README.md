@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **22 Sep 2026, 08:42 AM IST**  
+Last updated: **22 Sep 2026, 04:26 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,7 +47,6 @@ Source: Epic fallback from saved state, Steam live data
 - **Mechabellum** - starts `24 Sep 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/mechabellum-88a843))
 
 ### Steam
-- **Crystal Crisis** - Free to Keep ([Open](https://store.steampowered.com/app/447700/Crystal_Crisis/?snr=1_7_7_2300_150_1))
 - **Deadshot** - Free to Keep ([Open](https://store.steampowered.com/app/2484180/Deadshot/?snr=1_7_7_2300_150_1))
 - **Dying Light: The Beast - Discharge Weapon Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4355480/Dying_Light_The_Beast__Discharge_Weapon_Pack/?snr=1_7_7_2300_150_1))
 - **Space Menace** - Free to Keep ([Open](https://store.steampowered.com/app/2000040/Space_Menace/?snr=1_7_7_2300_150_1))
