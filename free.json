@@ -1,23 +1,7 @@
 {
-  "signature": "CURRENT:Mindcop,Shogun Showdown|UPCOMING:Astrea Six Sided Oracles,Mechabellum",
-  "updated_at": "2026-09-17T16:11:57.415542+00:00",
+  "signature": "CURRENT:Astrea Six Sided Oracles,Mechabellum|UPCOMING:BURIED STARS,System Shock 2: 25th Anniversary Remaster",
+  "updated_at": "2026-09-24T16:27:50.034942+00:00",
   "current_games": [
-    {
-      "title": "Mindcop",
-      "image": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
-      "link": "https://store.epicgames.com/en-US/p/mindcop-78e6c1",
-      "start": "17 Sep 2026, 08:30 PM IST",
-      "end": "24 Sep 2026, 08:30 PM IST"
-    },
-    {
-      "title": "Shogun Showdown",
-      "image": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg",
-      "link": "https://store.epicgames.com/en-US/p/shogun-showdown-61832d",
-      "start": "17 Sep 2026, 08:30 PM IST",
-      "end": "24 Sep 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "Astrea Six Sided Oracles",
       "image": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
@@ -31,6 +15,22 @@
       "link": "https://store.epicgames.com/en-US/p/mechabellum-88a843",
       "start": "24 Sep 2026, 08:30 PM IST",
       "end": "01 Oct 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "BURIED STARS",
+      "image": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg",
+      "link": "https://store.epicgames.com/en-US/p/buried-stars-d7c88c",
+      "start": "01 Oct 2026, 08:30 PM IST",
+      "end": "08 Oct 2026, 08:30 PM IST"
+    },
+    {
+      "title": "System Shock 2: 25th Anniversary Remaster",
+      "image": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1e28j.jpg",
+      "link": "https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9",
+      "start": "01 Oct 2026, 08:30 PM IST",
+      "end": "08 Oct 2026, 08:30 PM IST"
     }
   ]
 }
