@@ -1,5 +1,13 @@
 {
-  "signature": "",
-  "updated_at": "2026-09-24T16:27:50.836662+00:00",
-  "games": []
+  "signature": "Free Weekend::Free Weekend::https://store.steampowered.com/app/393380",
+  "updated_at": "2026-09-24T21:06:56.559021+00:00",
+  "games": [
+    {
+      "type": "Free Weekend",
+      "title": "Free Weekend",
+      "link": "https://store.steampowered.com/app/393380",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/c6265272faa5dbf65e6b06ed/02ce608b7b3945a86057d707b95465fc9fe00b05/vertical_capsule_english.png?t=1790018239",
+      "time": "Offer ends %1$s."
+    }
+  ]
 }

@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **24 Sep 2026, 09:57 PM IST**  
+Last updated: **25 Sep 2026, 02:36 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,7 +47,7 @@ Source: Epic fallback from saved state, Steam live data
 - **System Shock 2: 25th Anniversary Remaster** - starts `01 Oct 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9))
 
 ### Steam
-- No Steam freebies found.
+- **Free Weekend** - Free Weekend ([Open](https://store.steampowered.com/app/393380))
 <!-- README_AUTO_SECTION:END -->
 
 ---
