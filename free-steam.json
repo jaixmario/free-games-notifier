@@ -1,7 +1,14 @@
 {
-  "signature": "Free Weekend::Free Weekend::https://store.steampowered.com/app/393380",
-  "updated_at": "2026-09-24T21:06:56.559021+00:00",
+  "signature": "Free Weekend::Free Weekend::https://store.steampowered.com/app/393380|Free to Keep::Explosive Odds - Supporter Pack::https://store.steampowered.com/app/4059370/Explosive_Odds__Supporter_Pack/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-09-26T03:25:18.668915+00:00",
   "games": [
+    {
+      "type": "Free to Keep",
+      "title": "Explosive Odds - Supporter Pack",
+      "link": "https://store.steampowered.com/app/4059370/Explosive_Odds__Supporter_Pack/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4059370/d8626c4739e8a2d5e15c92fec1153acd93d2aa2b/capsule_231x87.jpg?t=1790375406",
+      "time": "Limited Time Offer"
+    },
     {
       "type": "Free Weekend",
       "title": "Free Weekend",
