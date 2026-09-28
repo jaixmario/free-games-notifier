@@ -1,6 +1,6 @@
 {
-  "signature": "Free Weekend::Squad::https://store.steampowered.com/app/393380|Free to Keep::Explosive Odds - Supporter Pack::https://store.steampowered.com/app/4059370/Explosive_Odds__Supporter_Pack/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-09-28T03:31:45.290469+00:00",
+  "signature": "Free to Keep::Explosive Odds - Supporter Pack::https://store.steampowered.com/app/4059370/Explosive_Odds__Supporter_Pack/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-09-28T22:54:53.857087+00:00",
   "games": [
     {
       "type": "Free to Keep",
@@ -8,13 +8,6 @@
       "link": "https://store.steampowered.com/app/4059370/Explosive_Odds__Supporter_Pack/?snr=1_7_7_2300_150_1",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4059370/d8626c4739e8a2d5e15c92fec1153acd93d2aa2b/capsule_231x87.jpg?t=1790375406",
       "time": "Limited Time Offer"
-    },
-    {
-      "type": "Free Weekend",
-      "title": "Squad",
-      "link": "https://store.steampowered.com/app/393380",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/c6265272faa5dbf65e6b06ed/02ce608b7b3945a86057d707b95465fc9fe00b05/vertical_capsule_english.png?t=1790018239",
-      "time": "Offer ends %1$s."
     }
   ]
 }
