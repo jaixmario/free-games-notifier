@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **28 Sep 2026, 02:20 AM IST**  
+Last updated: **28 Sep 2026, 09:01 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -48,7 +48,7 @@ Source: Epic fallback from saved state, Steam live data
 
 ### Steam
 - **Explosive Odds - Supporter Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4059370/Explosive_Odds__Supporter_Pack/?snr=1_7_7_2300_150_1))
-- **Free Weekend** - Free Weekend ([Open](https://store.steampowered.com/app/393380))
+- **Squad** - Free Weekend ([Open](https://store.steampowered.com/app/393380))
 <!-- README_AUTO_SECTION:END -->
 
 ---
