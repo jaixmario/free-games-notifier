@@ -1,23 +1,7 @@
 {
-  "signature": "CURRENT:Astrea Six Sided Oracles,Mechabellum|UPCOMING:BURIED STARS,System Shock 2: 25th Anniversary Remaster",
-  "updated_at": "2026-09-24T16:27:50.034942+00:00",
+  "signature": "CURRENT:BURIED STARS,System Shock 2: 25th Anniversary Remaster|UPCOMING:Out of Sight,TerraScape",
+  "updated_at": "2026-10-01T22:19:15.345594+00:00",
   "current_games": [
-    {
-      "title": "Astrea Six Sided Oracles",
-      "image": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
-      "link": "https://store.epicgames.com/en-US/p/astrea-six-sided-oracles-33c949",
-      "start": "24 Sep 2026, 08:30 PM IST",
-      "end": "01 Oct 2026, 08:30 PM IST"
-    },
-    {
-      "title": "Mechabellum",
-      "image": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg",
-      "link": "https://store.epicgames.com/en-US/p/mechabellum-88a843",
-      "start": "24 Sep 2026, 08:30 PM IST",
-      "end": "01 Oct 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "BURIED STARS",
       "image": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg",
@@ -31,6 +15,22 @@
       "link": "https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9",
       "start": "01 Oct 2026, 08:30 PM IST",
       "end": "08 Oct 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Out of Sight",
+      "image": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
+      "link": "https://store.epicgames.com/en-US/p/out-of-sight-b96ca8",
+      "start": "08 Oct 2026, 08:30 PM IST",
+      "end": "15 Oct 2026, 08:30 PM IST"
+    },
+    {
+      "title": "TerraScape",
+      "image": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
+      "link": "https://store.epicgames.com/en-US/p/terrascape-2b12b1",
+      "start": "08 Oct 2026, 08:30 PM IST",
+      "end": "15 Oct 2026, 08:30 PM IST"
     }
   ]
 }

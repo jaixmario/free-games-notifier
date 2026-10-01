@@ -1,12 +1,19 @@
 {
-  "signature": "Free to Keep::MXGP 26 - Scrubdesignz Liveries::https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-10-01T12:23:35.217511+00:00",
+  "signature": "Free to Keep::MXGP 26 - Scrubdesignz Liveries::https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1|Free to Keep::Rotwood: Drakin Armoury Pack::https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-10-01T22:19:22.201574+00:00",
   "games": [
     {
       "type": "Free to Keep",
       "title": "MXGP 26 - Scrubdesignz Liveries",
       "link": "https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847440/8c4482813a102b146a6d4b3eb464df30cc69623d/capsule_231x87.jpg?t=1790841917",
+      "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free to Keep",
+      "title": "Rotwood: Drakin Armoury Pack",
+      "link": "https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5067220/a3cbe15495115bffbdcf5e44fc16811546257244/capsule_231x87.jpg?t=1790874934",
       "time": "Limited Time Offer"
     }
   ]
