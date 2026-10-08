@@ -1,7 +1,14 @@
 {
-  "signature": "Free to Keep::MXGP 26 - Scrubdesignz Liveries::https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1|Free to Keep::Rotwood: Drakin Armoury Pack::https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-10-01T22:19:22.201574+00:00",
+  "signature": "Free to Keep::Gear.Club Unlimited 3 - Gear.Club Signature Pack::https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1|Free to Keep::MXGP 26 - Scrubdesignz Liveries::https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1|Free to Keep::Rotwood: Drakin Armoury Pack::https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-10-08T12:46:27.054154+00:00",
   "games": [
+    {
+      "type": "Free to Keep",
+      "title": "Gear.Club Unlimited 3 - Gear.Club Signature Pack",
+      "link": "https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4114140/608a77203ea62cb2e30dda06f84aafe37677c393/capsule_231x87.jpg?t=1791446575",
+      "time": "Limited Time Offer"
+    },
     {
       "type": "Free to Keep",
       "title": "MXGP 26 - Scrubdesignz Liveries",

@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **08 Oct 2026, 09:54 AM IST**  
+Last updated: **08 Oct 2026, 06:16 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,6 +47,7 @@ Source: Epic fallback from saved state, Steam live data
 - **TerraScape** - starts `08 Oct 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/terrascape-2b12b1))
 
 ### Steam
+- **Gear.Club Unlimited 3 - Gear.Club Signature Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1))
 - **MXGP 26 - Scrubdesignz Liveries** - Free to Keep ([Open](https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1))
 - **Rotwood: Drakin Armoury Pack** - Free to Keep ([Open](https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
