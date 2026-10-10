@@ -35,21 +35,26 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **08 Oct 2026, 06:16 PM IST**  
+Last updated: **10 Oct 2026, 11:45 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **BURIED STARS** - free until `08 Oct 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/buried-stars-d7c88c))
-- **System Shock 2: 25th Anniversary Remaster** - free until `08 Oct 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9))
+- **Out of Sight** - free until `15 Oct 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/out-of-sight-b96ca8))
+- **TerraScape** - free until `15 Oct 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/terrascape-2b12b1))
 
 ### Upcoming on Epic
-- **Out of Sight** - starts `08 Oct 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/out-of-sight-b96ca8))
-- **TerraScape** - starts `08 Oct 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/terrascape-2b12b1))
+- **Agent A: A puzzle in disguise** - starts `15 Oct 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f))
+- **Bad Cheese** - starts `15 Oct 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/bad-cheese-4256d9))
 
 ### Steam
+- **ARC Raiders** - Free Weekend ([Open](https://store.steampowered.com/app/1808500))
+- **Core Keeper** - Free Weekend ([Open](https://store.steampowered.com/app/1621690))
+- **Fireside Feelings** - Free to Keep ([Open](https://store.steampowered.com/app/2990600/Fireside_Feelings/?snr=1_7_7_2300_150_1))
 - **Gear.Club Unlimited 3 - Gear.Club Signature Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1))
 - **MXGP 26 - Scrubdesignz Liveries** - Free to Keep ([Open](https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1))
+- **Pony Island** - Free to Keep ([Open](https://store.steampowered.com/app/405640/Pony_Island/?snr=1_7_7_2300_150_1))
 - **Rotwood: Drakin Armoury Pack** - Free to Keep ([Open](https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1))
+- **World of Warships — Ning Hai** - Free to Keep ([Open](https://store.steampowered.com/app/2283211/World_of_Warships__Ning_Hai/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
 ---

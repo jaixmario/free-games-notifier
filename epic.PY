@@ -1,6 +1,7 @@
 import json
 import os
 import smtplib
+import time
 from datetime import datetime, timedelta, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -387,7 +388,7 @@ def build_telegram_game_caption(game, label):
     )
 
 
-def send_telegram_text(message):
+def send_telegram_text(message, max_retries=3):
     if not CONFIG["notifications"]["telegram"]:
         return
 
@@ -397,20 +398,43 @@ def send_telegram_text(message):
 
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
     for chat_id in chat_ids:
-        response = requests.post(
-            url,
-            json={
-                "chat_id": chat_id,
-                "text": message,
-                "disable_web_page_preview": False,
-                "parse_mode": "HTML",
-            },
-            timeout=30,
-        )
-        response.raise_for_status()
+        for attempt in range(1, max_retries + 1):
+            try:
+                response = requests.post(
+                    url,
+                    json={
+                        "chat_id": chat_id,
+                        "text": message,
+                        "disable_web_page_preview": False,
+                        "parse_mode": "HTML",
+                    },
+                    timeout=30,
+                )
+                if response.status_code == 429:
+                    if attempt == max_retries:
+                        print(f"Telegram rate limit persisted after {max_retries} attempts on chat {chat_id}.")
+                        break
+                    wait_time = 2.0
+                    try:
+                        wait_time = float(response.json().get("parameters", {}).get("retry_after", 2.0))
+                    except Exception:
+                        pass
+                    wait_time = max(wait_time + 0.5, 1.0)
+                    print(f"Telegram rate limited (429) on chat {chat_id}. Waiting {wait_time:.2f}s (attempt {attempt}/{max_retries})...")
+                    time.sleep(wait_time)
+                    continue
+
+                response.raise_for_status()
+                time.sleep(0.5)
+                break
+            except requests.exceptions.RequestException as exc:
+                if attempt == max_retries:
+                    print(f"Telegram text request failed on chat {chat_id}: {exc}")
+                else:
+                    time.sleep(1.0)
 
 
-def send_telegram_photo(photo_url, caption):
+def send_telegram_photo(photo_url, caption, max_retries=3):
     if not CONFIG["notifications"]["telegram"]:
         return
 
@@ -420,35 +444,61 @@ def send_telegram_photo(photo_url, caption):
 
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
     for chat_id in chat_ids:
-        response = requests.post(
-            url,
-            data={
-                "chat_id": chat_id,
-                "photo": photo_url,
-                "caption": caption[:1024],
-                "parse_mode": "HTML",
-            },
-            timeout=30,
-        )
-        response.raise_for_status()
+        for attempt in range(1, max_retries + 1):
+            try:
+                response = requests.post(
+                    url,
+                    data={
+                        "chat_id": chat_id,
+                        "photo": photo_url,
+                        "caption": caption[:1024],
+                        "parse_mode": "HTML",
+                    },
+                    timeout=30,
+                )
+                if response.status_code == 429:
+                    if attempt == max_retries:
+                        print(f"Telegram rate limit persisted after {max_retries} attempts on chat {chat_id}.")
+                        break
+                    wait_time = 2.0
+                    try:
+                        wait_time = float(response.json().get("parameters", {}).get("retry_after", 2.0))
+                    except Exception:
+                        pass
+                    wait_time = max(wait_time + 0.5, 1.0)
+                    print(f"Telegram rate limited (429) on chat {chat_id}. Waiting {wait_time:.2f}s (attempt {attempt}/{max_retries})...")
+                    time.sleep(wait_time)
+                    continue
+
+                response.raise_for_status()
+                time.sleep(0.5)
+                break
+            except requests.exceptions.RequestException as exc:
+                if attempt == max_retries:
+                    print(f"Telegram photo request failed on chat {chat_id}: {exc}")
+                else:
+                    time.sleep(1.0)
 
 
 def send_telegram_notifications(current_games, upcoming_games):
-    send_telegram_text(build_telegram_summary(current_games, upcoming_games))
+    try:
+        send_telegram_text(build_telegram_summary(current_games, upcoming_games))
 
-    for game in current_games:
-        caption = build_telegram_game_caption(game, "Epic Free Now")
-        if game.get("image"):
-            send_telegram_photo(game["image"], caption)
-        else:
-            send_telegram_text(caption)
+        for game in current_games:
+            caption = build_telegram_game_caption(game, "Epic Free Now")
+            if game.get("image"):
+                send_telegram_photo(game["image"], caption)
+            else:
+                send_telegram_text(caption)
 
-    for game in upcoming_games:
-        caption = build_telegram_game_caption(game, "Epic Upcoming")
-        if game.get("image"):
-            send_telegram_photo(game["image"], caption)
-        else:
-            send_telegram_text(caption)
+        for game in upcoming_games:
+            caption = build_telegram_game_caption(game, "Epic Upcoming")
+            if game.get("image"):
+                send_telegram_photo(game["image"], caption)
+            else:
+                send_telegram_text(caption)
+    except Exception as exc:
+        print(f"Error sending Telegram notifications: {exc}")
 
 
 # ── Discord ──────────────────────────────────────────────────────────────────
@@ -456,8 +506,8 @@ def send_telegram_notifications(current_games, upcoming_games):
 DISCORD_API = "https://discord.com/api/v10/channels/{channel_id}/messages"
 
 
-def _discord_post(payload):
-    """POST one message to the configured Discord channel."""
+def _discord_post(payload, max_retries=5):
+    """POST one message to the configured Discord channel with rate limit handling and retries."""
     channel_ids = parse_csv_values(DISCORD_CHANNEL_ID)
     if not DISCORD_BOT_TOKEN or not channel_ids:
         return
@@ -467,8 +517,39 @@ def _discord_post(payload):
     }
     for channel_id in channel_ids:
         url = DISCORD_API.format(channel_id=channel_id)
-        response = requests.post(url, headers=headers, json=payload, timeout=30)
-        response.raise_for_status()
+        for attempt in range(1, max_retries + 1):
+            try:
+                response = requests.post(url, headers=headers, json=payload, timeout=30)
+                if response.status_code == 429:
+                    if attempt == max_retries:
+                        print(f"Discord rate limit (429) persisted after {max_retries} attempts on channel {channel_id}.")
+                        break
+                    wait_time = 2.0
+                    try:
+                        data = response.json()
+                        wait_time = float(data.get("retry_after", 2.0))
+                    except Exception:
+                        try:
+                            wait_time = float(response.headers.get("Retry-After", 2.0))
+                        except Exception:
+                            pass
+                    wait_time = max(wait_time + 0.5, 1.0)
+                    print(
+                        f"Discord rate limited (429) on channel {channel_id}. "
+                        f"Waiting {wait_time:.2f}s before retrying (attempt {attempt}/{max_retries})..."
+                    )
+                    time.sleep(wait_time)
+                    continue
+
+                response.raise_for_status()
+                # Polite pause between successful messages to prevent rate limit spikes
+                time.sleep(1.0)
+                break
+            except requests.exceptions.RequestException as exc:
+                if attempt == max_retries:
+                    print(f"Discord request failed on channel {channel_id} after {max_retries} attempts: {exc}")
+                else:
+                    time.sleep(1.0)
 
 
 def build_discord_game_embed(game, label, colour):
@@ -494,23 +575,26 @@ def send_discord_notifications(current_games, upcoming_games):
     if not DISCORD_BOT_TOKEN or not DISCORD_CHANNEL_ID:
         return
 
-    # Summary message
-    summary_lines = [
-        "**🎮 Epic Free Games Update**",
-        f"🟢 **Free now:** {len(current_games)}",
-        f"🟡 **Upcoming:** {len(upcoming_games)}",
-    ]
-    _discord_post({"content": "\n".join(summary_lines)})
+    try:
+        # Summary message
+        summary_lines = [
+            "**🎮 Epic Free Games Update**",
+            f"🟢 **Free now:** {len(current_games)}",
+            f"🟡 **Upcoming:** {len(upcoming_games)}",
+        ]
+        _discord_post({"content": "\n".join(summary_lines)})
 
-    # One embed per current game  (colour: green 0x22c55e)
-    for game in current_games:
-        embed = build_discord_game_embed(game, "\ud83d\udfe2 Epic Free Now", 0x22C55E)
-        _discord_post({"embeds": [embed]})
+        # One embed per current game  (colour: green 0x22c55e)
+        for game in current_games:
+            embed = build_discord_game_embed(game, "🟢 Epic Free Now", 0x22C55E)
+            _discord_post({"embeds": [embed]})
 
-    # One embed per upcoming game  (colour: yellow 0xfacc15)
-    for game in upcoming_games:
-        embed = build_discord_game_embed(game, "\ud83d\udfe1 Epic Upcoming", 0xFACC15)
-        _discord_post({"embeds": [embed]})
+        # One embed per upcoming game  (colour: yellow 0xfacc15)
+        for game in upcoming_games:
+            embed = build_discord_game_embed(game, "🟡 Epic Upcoming", 0xFACC15)
+            _discord_post({"embeds": [embed]})
+    except Exception as exc:
+        print(f"Error sending Discord notifications: {exc}")
 
 
 def build_whatsapp_summary(current_games, upcoming_games):
@@ -608,9 +692,25 @@ if __name__ == "__main__":
         upcoming_titles = ", ".join(game["title"] for game in upcoming_games) or "TBA"
         subject = f"Free Now: {current_titles} | Next: {upcoming_titles}"
         html = build_html(current_games, upcoming_games)
-        send_email(subject, html)
-        send_telegram_notifications(current_games, upcoming_games)
-        send_discord_notifications(current_games, upcoming_games)
-        send_whatsapp_notifications(current_games, upcoming_games)
+        try:
+            send_email(subject, html)
+        except Exception as exc:
+            print(f"Failed to send email notification: {exc}")
+
+        try:
+            send_telegram_notifications(current_games, upcoming_games)
+        except Exception as exc:
+            print(f"Failed to send Telegram notifications: {exc}")
+
+        try:
+            send_discord_notifications(current_games, upcoming_games)
+        except Exception as exc:
+            print(f"Failed to send Discord notifications: {exc}")
+
+        try:
+            send_whatsapp_notifications(current_games, upcoming_games)
+        except Exception as exc:
+            print(f"Failed to send WhatsApp notifications: {exc}")
+
         save_state(signature, current_games, upcoming_games)
-        print("Notifications sent and JSON state saved.")
+        print("Notifications processed and JSON state saved.")

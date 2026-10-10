@@ -1,23 +1,7 @@
 {
-  "signature": "CURRENT:BURIED STARS,System Shock 2: 25th Anniversary Remaster|UPCOMING:Out of Sight,TerraScape",
-  "updated_at": "2026-10-01T22:19:15.345594+00:00",
+  "signature": "CURRENT:Out of Sight,TerraScape|UPCOMING:Agent A: A puzzle in disguise,Bad Cheese",
+  "updated_at": "2026-10-10T06:15:35.170731+00:00",
   "current_games": [
-    {
-      "title": "BURIED STARS",
-      "image": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg",
-      "link": "https://store.epicgames.com/en-US/p/buried-stars-d7c88c",
-      "start": "01 Oct 2026, 08:30 PM IST",
-      "end": "08 Oct 2026, 08:30 PM IST"
-    },
-    {
-      "title": "System Shock 2: 25th Anniversary Remaster",
-      "image": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1e28j.jpg",
-      "link": "https://store.epicgames.com/en-US/p/system-shock-2-25th-anniversary-remaster-cb94d9",
-      "start": "01 Oct 2026, 08:30 PM IST",
-      "end": "08 Oct 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "Out of Sight",
       "image": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
@@ -31,6 +15,22 @@
       "link": "https://store.epicgames.com/en-US/p/terrascape-2b12b1",
       "start": "08 Oct 2026, 08:30 PM IST",
       "end": "15 Oct 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Agent A: A puzzle in disguise",
+      "image": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
+      "link": "https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f",
+      "start": "15 Oct 2026, 08:30 PM IST",
+      "end": "22 Oct 2026, 08:30 PM IST"
+    },
+    {
+      "title": "Bad Cheese",
+      "image": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png",
+      "link": "https://store.epicgames.com/en-US/p/bad-cheese-4256d9",
+      "start": "15 Oct 2026, 08:30 PM IST",
+      "end": "22 Oct 2026, 08:30 PM IST"
     }
   ]
 }

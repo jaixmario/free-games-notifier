@@ -1,3 +1,4 @@
+import time
 import requests
 
 
@@ -34,23 +35,29 @@ def send_whatsapp_text(
     session = requests.Session()
     session.trust_env = False
 
+    sent_count = 0
     for recipient in recipient_list:
-        response = session.post(
-            url,
-            headers=headers,
-            json={
-                "messaging_product": "whatsapp",
-                "to": recipient,
-                "type": "text",
-                "text": {
-                    "preview_url": bool(preview_url),
-                    "body": str(body)[:4096],
+        try:
+            response = session.post(
+                url,
+                headers=headers,
+                json={
+                    "messaging_product": "whatsapp",
+                    "to": recipient,
+                    "type": "text",
+                    "text": {
+                        "preview_url": bool(preview_url),
+                        "body": str(body)[:4096],
+                    },
                 },
-            },
-            timeout=30,
-        )
-        response.raise_for_status()
-    return len(recipient_list)
+                timeout=30,
+            )
+            response.raise_for_status()
+            sent_count += 1
+            time.sleep(0.5)
+        except Exception as exc:
+            print(f"WhatsApp text send failed to {recipient}: {exc}")
+    return sent_count
 
 
 def send_whatsapp_image(
@@ -73,20 +80,26 @@ def send_whatsapp_image(
     session = requests.Session()
     session.trust_env = False
 
+    sent_count = 0
     for recipient in recipient_list:
-        response = session.post(
-            url,
-            headers=headers,
-            json={
-                "messaging_product": "whatsapp",
-                "to": recipient,
-                "type": "image",
-                "image": {
-                    "link": image_link,
-                    "caption": str(caption)[:1024],
+        try:
+            response = session.post(
+                url,
+                headers=headers,
+                json={
+                    "messaging_product": "whatsapp",
+                    "to": recipient,
+                    "type": "image",
+                    "image": {
+                        "link": image_link,
+                        "caption": str(caption)[:1024],
+                    },
                 },
-            },
-            timeout=30,
-        )
-        response.raise_for_status()
-    return len(recipient_list)
+                timeout=30,
+            )
+            response.raise_for_status()
+            sent_count += 1
+            time.sleep(0.5)
+        except Exception as exc:
+            print(f"WhatsApp image send failed to {recipient}: {exc}")
+    return sent_count
