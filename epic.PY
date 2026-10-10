@@ -1,5 +1,6 @@
 import json
 import os
+import re
 import smtplib
 import time
 from datetime import datetime, timedelta, timezone
@@ -10,6 +11,7 @@ from html import escape
 import requests
 from whatsapp import send_whatsapp_image, send_whatsapp_text
 
+HEADERS = {"User-Agent": "Mozilla/5.0"}
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 API_URL = "https://store-site-backend-static.ak.epicgames.com/freeGamesPromotions?locale=en-US"
@@ -424,6 +426,29 @@ def send_telegram_text(message, max_retries=3):
                     time.sleep(wait_time)
                     continue
 
+                if response.status_code == 400:
+                    err_desc = ""
+                    try:
+                        err_desc = response.json().get("description", "")
+                    except Exception:
+                        err_desc = response.text
+                    if "can't parse entities" in err_desc.lower():
+                        plain_text = re.sub(r"<[^>]+>", "", message)
+                        fallback_resp = requests.post(
+                            url,
+                            json={
+                                "chat_id": chat_id,
+                                "text": plain_text,
+                                "disable_web_page_preview": False,
+                            },
+                            timeout=30,
+                        )
+                        if fallback_resp.status_code == 200:
+                            time.sleep(0.5)
+                            break
+                    print(f"Telegram sendMessage rejected (400 Bad Request) on chat {chat_id}: {err_desc}")
+                    break
+
                 response.raise_for_status()
                 time.sleep(0.5)
                 break
@@ -442,20 +467,44 @@ def send_telegram_photo(photo_url, caption, max_retries=3):
     if not TELEGRAM_BOT_TOKEN or not chat_ids:
         return
 
+    # Pre-download photo bytes with browser User-Agent to avoid CDN hotlink blocks against Telegram servers
+    photo_bytes = None
+    photo_filename = "photo.jpg"
+    if photo_url:
+        try:
+            img_res = requests.get(photo_url, headers=HEADERS, timeout=15)
+            if img_res.status_code == 200 and img_res.content:
+                photo_bytes = img_res.content
+                if ".png" in photo_url.lower():
+                    photo_filename = "photo.png"
+        except Exception as exc:
+            print(f"Could not download photo {photo_url} for Telegram upload: {exc}")
+
     url = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendPhoto"
     for chat_id in chat_ids:
+        posted = False
         for attempt in range(1, max_retries + 1):
             try:
-                response = requests.post(
-                    url,
-                    data={
+                if photo_bytes:
+                    files = {"photo": (photo_filename, photo_bytes)}
+                    data = {
                         "chat_id": chat_id,
-                        "photo": photo_url,
                         "caption": caption[:1024],
                         "parse_mode": "HTML",
-                    },
-                    timeout=30,
-                )
+                    }
+                    response = requests.post(url, data=data, files=files, timeout=30)
+                else:
+                    response = requests.post(
+                        url,
+                        data={
+                            "chat_id": chat_id,
+                            "photo": photo_url,
+                            "caption": caption[:1024],
+                            "parse_mode": "HTML",
+                        },
+                        timeout=30,
+                    )
+
                 if response.status_code == 429:
                     if attempt == max_retries:
                         print(f"Telegram rate limit persisted after {max_retries} attempts on chat {chat_id}.")
@@ -470,7 +519,17 @@ def send_telegram_photo(photo_url, caption, max_retries=3):
                     time.sleep(wait_time)
                     continue
 
+                if response.status_code == 400:
+                    err_desc = ""
+                    try:
+                        err_desc = response.json().get("description", "")
+                    except Exception:
+                        err_desc = response.text
+                    print(f"Telegram sendPhoto rejected (400 Bad Request) on chat {chat_id}: {err_desc}")
+                    break
+
                 response.raise_for_status()
+                posted = True
                 time.sleep(0.5)
                 break
             except requests.exceptions.RequestException as exc:
@@ -478,6 +537,10 @@ def send_telegram_photo(photo_url, caption, max_retries=3):
                     print(f"Telegram photo request failed on chat {chat_id}: {exc}")
                 else:
                     time.sleep(1.0)
+
+        if not posted:
+            print(f"Falling back to Telegram text notification for chat {chat_id}...")
+            send_telegram_text(caption)
 
 
 def send_telegram_notifications(current_games, upcoming_games):
