@@ -1,6 +1,6 @@
 {
-  "signature": "Free to Keep::Gear.Club Unlimited 3 - Gear.Club Signature Pack::https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1|Free to Keep::MXGP 26 - Scrubdesignz Liveries::https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1|Free to Keep::Rotwood: Drakin Armoury Pack::https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Voidtrain - Big Catch::https://store.steampowered.com/app/5007040/Voidtrain__Big_Catch/?snr=1_7_7_2300_150_1|Free to Keep::World of Warships — Ning Hai::https://store.steampowered.com/app/2283211/World_of_Warships__Ning_Hai/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-10-13T00:06:54.262124+00:00",
+  "signature": "Free to Keep::Gear.Club Unlimited 3 - Gear.Club Signature Pack::https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1|Free to Keep::MXGP 26 - Scrubdesignz Liveries::https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1|Free to Keep::Rotwood: Drakin Armoury Pack::https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Voidtrain - Big Catch::https://store.steampowered.com/app/5007040/Voidtrain__Big_Catch/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-10-13T13:31:06.481933+00:00",
   "games": [
     {
       "type": "Free to Keep",
@@ -28,13 +28,6 @@
       "title": "Voidtrain - Big Catch",
       "link": "https://store.steampowered.com/app/5007040/Voidtrain__Big_Catch/?snr=1_7_7_2300_150_1",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5007040/938b5f8ca6b86bbcc94012dd386da0eb03bba5b8/capsule_231x87.jpg?t=1791824486",
-      "time": "Limited Time Offer"
-    },
-    {
-      "type": "Free to Keep",
-      "title": "World of Warships — Ning Hai",
-      "link": "https://store.steampowered.com/app/2283211/World_of_Warships__Ning_Hai/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2283211/ecc70fa95be1eb38820575351de554517105a268/capsule_231x87.jpg?t=1791477152",
       "time": "Limited Time Offer"
     }
   ]
