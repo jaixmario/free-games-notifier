@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **12 Oct 2026, 07:52 PM IST**  
+Last updated: **13 Oct 2026, 05:36 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,13 +47,10 @@ Source: Epic fallback from saved state, Steam live data
 - **Bad Cheese** - starts `15 Oct 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/bad-cheese-4256d9))
 
 ### Steam
-- **ARC Raiders** - Free Weekend ([Open](https://store.steampowered.com/app/1808500))
-- **Core Keeper** - Free Weekend ([Open](https://store.steampowered.com/app/1621690))
-- **Fireside Feelings** - Free to Keep ([Open](https://store.steampowered.com/app/2990600/Fireside_Feelings/?snr=1_7_7_2300_150_1))
 - **Gear.Club Unlimited 3 - Gear.Club Signature Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1))
 - **MXGP 26 - Scrubdesignz Liveries** - Free to Keep ([Open](https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1))
-- **Pony Island** - Free to Keep ([Open](https://store.steampowered.com/app/405640/Pony_Island/?snr=1_7_7_2300_150_1))
 - **Rotwood: Drakin Armoury Pack** - Free to Keep ([Open](https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1))
+- **Voidtrain - Big Catch** - Free to Keep ([Open](https://store.steampowered.com/app/5007040/Voidtrain__Big_Catch/?snr=1_7_7_2300_150_1))
 - **World of Warships — Ning Hai** - Free to Keep ([Open](https://store.steampowered.com/app/2283211/World_of_Warships__Ning_Hai/?snr=1_7_7_2300_150_1))
 <!-- README_AUTO_SECTION:END -->
 
