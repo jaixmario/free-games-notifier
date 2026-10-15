@@ -1,23 +1,7 @@
 {
-  "signature": "CURRENT:Out of Sight,TerraScape|UPCOMING:Agent A: A puzzle in disguise,Bad Cheese",
-  "updated_at": "2026-10-10T06:32:35.299440+00:00",
+  "signature": "CURRENT:Agent A: A puzzle in disguise,Bad Cheese|UPCOMING:Home - A Unique Horror Adventure,Sker Ritual",
+  "updated_at": "2026-10-15T16:16:23.477302+00:00",
   "current_games": [
-    {
-      "title": "Out of Sight",
-      "image": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
-      "link": "https://store.epicgames.com/en-US/p/out-of-sight-b96ca8",
-      "start": "08 Oct 2026, 08:30 PM IST",
-      "end": "15 Oct 2026, 08:30 PM IST"
-    },
-    {
-      "title": "TerraScape",
-      "image": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
-      "link": "https://store.epicgames.com/en-US/p/terrascape-2b12b1",
-      "start": "08 Oct 2026, 08:30 PM IST",
-      "end": "15 Oct 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "Agent A: A puzzle in disguise",
       "image": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
@@ -31,6 +15,22 @@
       "link": "https://store.epicgames.com/en-US/p/bad-cheese-4256d9",
       "start": "15 Oct 2026, 08:30 PM IST",
       "end": "22 Oct 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Home - A Unique Horror Adventure",
+      "image": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
+      "link": "https://store.epicgames.com/en-US/p/home-19212a",
+      "start": "22 Oct 2026, 08:30 PM IST",
+      "end": "29 Oct 2026, 08:30 PM IST"
+    },
+    {
+      "title": "Sker Ritual",
+      "image": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png",
+      "link": "https://store.epicgames.com/en-US/p/sker-ritual-aac702",
+      "start": "22 Oct 2026, 08:30 PM IST",
+      "end": "29 Oct 2026, 08:30 PM IST"
     }
   ]
 }
