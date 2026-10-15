@@ -1,33 +1,40 @@
 {
-  "signature": "Free to Keep::Gear.Club Unlimited 3 - Gear.Club Signature Pack::https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1|Free to Keep::MXGP 26 - Scrubdesignz Liveries::https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1|Free to Keep::Rotwood: Drakin Armoury Pack::https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Voidtrain - Big Catch::https://store.steampowered.com/app/5007040/Voidtrain__Big_Catch/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-10-13T13:31:06.481933+00:00",
+  "signature": "Free Weekend::Battlefield™ 6::https://store.steampowered.com/app/2807960|Free Weekend::Stranded Deep::https://store.steampowered.com/app/313120|Free to Keep::Gear.Club Unlimited 3 - Gear.Club Signature Pack::https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Squad Weapon Skins - Recon Team Pack::https://store.steampowered.com/app/4841320/Squad_Weapon_Skins__Recon_Team_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Voidtrain - Big Catch::https://store.steampowered.com/app/5007040/Voidtrain__Big_Catch/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-10-15T20:54:22.990111+00:00",
   "games": [
+    {
+      "type": "Free Weekend",
+      "title": "Battlefield™ 6",
+      "link": "https://store.steampowered.com/app/2807960",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/e887dd3121a22ae37ab491c3/020ee755487a8112dab889d0fa97a947558c68c5/vertical_capsule_english.jpg?t=1790708742",
+      "time": "Offer ends %1$s."
+    },
     {
       "type": "Free to Keep",
       "title": "Gear.Club Unlimited 3 - Gear.Club Signature Pack",
       "link": "https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4114140/608a77203ea62cb2e30dda06f84aafe37677c393/capsule_231x87.jpg?t=1791446575",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114140/608a77203ea62cb2e30dda06f84aafe37677c393/capsule_231x87.jpg?t=1791446575",
       "time": "Limited Time Offer"
     },
     {
       "type": "Free to Keep",
-      "title": "MXGP 26 - Scrubdesignz Liveries",
-      "link": "https://store.steampowered.com/app/4847440/MXGP_26__Scrubdesignz_Liveries/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4847440/8c4482813a102b146a6d4b3eb464df30cc69623d/capsule_231x87.jpg?t=1790841917",
+      "title": "Squad Weapon Skins - Recon Team Pack",
+      "link": "https://store.steampowered.com/app/4841320/Squad_Weapon_Skins__Recon_Team_Pack/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841320/eee97d492cd05cbd64b9489e7a10b670c529aeaa/capsule_231x87.jpg?t=1792087188",
       "time": "Limited Time Offer"
     },
     {
-      "type": "Free to Keep",
-      "title": "Rotwood: Drakin Armoury Pack",
-      "link": "https://store.steampowered.com/app/5067220/Rotwood_Drakin_Armoury_Pack/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5067220/a3cbe15495115bffbdcf5e44fc16811546257244/capsule_231x87.jpg?t=1790874934",
-      "time": "Limited Time Offer"
+      "type": "Free Weekend",
+      "title": "Stranded Deep",
+      "link": "https://store.steampowered.com/app/313120",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/8f21291d8efea5516b0ebc1d/564849422553cca07769138b75c7fa77039f094d/vertical_capsule_english.png?t=1790791318",
+      "time": "Play for free until %1$s."
     },
     {
       "type": "Free to Keep",
       "title": "Voidtrain - Big Catch",
       "link": "https://store.steampowered.com/app/5007040/Voidtrain__Big_Catch/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5007040/938b5f8ca6b86bbcc94012dd386da0eb03bba5b8/capsule_231x87.jpg?t=1791824486",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5007040/938b5f8ca6b86bbcc94012dd386da0eb03bba5b8/capsule_231x87.jpg?t=1791824486",
       "time": "Limited Time Offer"
     }
   ]
