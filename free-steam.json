@@ -1,19 +1,19 @@
 {
-  "signature": "Free to Keep::Gear.Club Unlimited 3 - Gear.Club Signature Pack::https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Squad Weapon Skins - Recon Team Pack::https://store.steampowered.com/app/4841320/Squad_Weapon_Skins__Recon_Team_Pack/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-10-19T21:58:08.657291+00:00",
+  "signature": "Free to Keep::Gear.Club Unlimited 3 - Gear.Club Signature Pack::https://store.steampowered.com/app/4114140/GearClub_Unlimited_3_GearClub_Signature_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Squad Weapon Skins - Recon Team Pack::https://store.steampowered.com/app/4841320/Squad_Weapon_Skins_Recon_Team_Pack/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-10-21T03:13:44.592630+00:00",
   "games": [
     {
       "type": "Free to Keep",
       "title": "Gear.Club Unlimited 3 - Gear.Club Signature Pack",
-      "link": "https://store.steampowered.com/app/4114140/GearClub_Unlimited_3__GearClub_Signature_Pack/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4114140/608a77203ea62cb2e30dda06f84aafe37677c393/capsule_231x87.jpg?t=1791446575",
+      "link": "https://store.steampowered.com/app/4114140/GearClub_Unlimited_3_GearClub_Signature_Pack/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4114140/608a77203ea62cb2e30dda06f84aafe37677c393/capsule_231x87.jpg?t=1791446575",
       "time": "Limited Time Offer"
     },
     {
       "type": "Free to Keep",
       "title": "Squad Weapon Skins - Recon Team Pack",
-      "link": "https://store.steampowered.com/app/4841320/Squad_Weapon_Skins__Recon_Team_Pack/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4841320/eee97d492cd05cbd64b9489e7a10b670c529aeaa/capsule_231x87.jpg?t=1792087188",
+      "link": "https://store.steampowered.com/app/4841320/Squad_Weapon_Skins_Recon_Team_Pack/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4841320/eee97d492cd05cbd64b9489e7a10b670c529aeaa/capsule_231x87.jpg?t=1792087188",
       "time": "Limited Time Offer"
     }
   ]
