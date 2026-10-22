@@ -35,16 +35,15 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **22 Oct 2026, 04:37 PM IST**  
+Last updated: **22 Oct 2026, 10:05 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Agent A: A puzzle in disguise** - free until `22 Oct 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f))
-- **Bad Cheese** - free until `22 Oct 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/bad-cheese-4256d9))
+- **Home - A Unique Horror Adventure** - free until `29 Oct 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/home-19212a))
+- **Sker Ritual** - free until `29 Oct 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/sker-ritual-aac702))
 
 ### Upcoming on Epic
-- **Home - A Unique Horror Adventure** - starts `22 Oct 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/home-19212a))
-- **Sker Ritual** - starts `22 Oct 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/sker-ritual-aac702))
+- **Sorry We're Closed** - starts `29 Oct 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/sorry-were-closed-724c86))
 
 ### Steam
 - **Gear.Club Unlimited 3 - Gear.Club Signature Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4114140/GearClub_Unlimited_3_GearClub_Signature_Pack/?snr=1_7_7_2300_150_1))

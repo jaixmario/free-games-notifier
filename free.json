@@ -1,23 +1,7 @@
 {
-  "signature": "CURRENT:Agent A: A puzzle in disguise,Bad Cheese|UPCOMING:Home - A Unique Horror Adventure,Sker Ritual",
-  "updated_at": "2026-10-15T16:16:23.477302+00:00",
+  "signature": "CURRENT:Home - A Unique Horror Adventure,Sker Ritual|UPCOMING:Sorry We're Closed",
+  "updated_at": "2026-10-22T16:35:40.727695+00:00",
   "current_games": [
-    {
-      "title": "Agent A: A puzzle in disguise",
-      "image": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
-      "link": "https://store.epicgames.com/en-US/p/agent-a-a-puzzle-in-disguise-42fe5f",
-      "start": "15 Oct 2026, 08:30 PM IST",
-      "end": "22 Oct 2026, 08:30 PM IST"
-    },
-    {
-      "title": "Bad Cheese",
-      "image": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png",
-      "link": "https://store.epicgames.com/en-US/p/bad-cheese-4256d9",
-      "start": "15 Oct 2026, 08:30 PM IST",
-      "end": "22 Oct 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "Home - A Unique Horror Adventure",
       "image": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
@@ -31,6 +15,15 @@
       "link": "https://store.epicgames.com/en-US/p/sker-ritual-aac702",
       "start": "22 Oct 2026, 08:30 PM IST",
       "end": "29 Oct 2026, 08:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Sorry We're Closed",
+      "image": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
+      "link": "https://store.epicgames.com/en-US/p/sorry-were-closed-724c86",
+      "start": "29 Oct 2026, 08:30 PM IST",
+      "end": "05 Nov 2026, 09:30 PM IST"
     }
   ]
 }
