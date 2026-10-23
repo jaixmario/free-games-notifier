@@ -35,14 +35,15 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **23 Oct 2026, 08:47 AM IST**  
+Last updated: **23 Oct 2026, 04:28 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- No Epic Games freebies found.
+- **Home - A Unique Horror Adventure** - free until `29 Oct 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/home-19212a))
+- **Sker Ritual** - free until `29 Oct 2026, 08:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/sker-ritual-aac702))
 
 ### Upcoming on Epic
-- No upcoming Epic Games reveals right now.
+- **Sorry We're Closed** - starts `29 Oct 2026, 08:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/sorry-were-closed-724c86))
 
 ### Steam
 - **Popcorn & Premieren - Ausgehviertel** - Free to Keep ([Open](https://store.steampowered.com/app/5340370/Popcorn_Premieren_Ausgehviertel/?snr=1_7_7_2300_150_1))
