@@ -1,29 +1,6 @@
 {
-  "signature": "CURRENT:Home - A Unique Horror Adventure,Sker Ritual|UPCOMING:Sorry We're Closed",
-  "updated_at": "2026-10-22T16:35:40.727695+00:00",
-  "current_games": [
-    {
-      "title": "Home - A Unique Horror Adventure",
-      "image": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
-      "link": "https://store.epicgames.com/en-US/p/home-19212a",
-      "start": "22 Oct 2026, 08:30 PM IST",
-      "end": "29 Oct 2026, 08:30 PM IST"
-    },
-    {
-      "title": "Sker Ritual",
-      "image": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png",
-      "link": "https://store.epicgames.com/en-US/p/sker-ritual-aac702",
-      "start": "22 Oct 2026, 08:30 PM IST",
-      "end": "29 Oct 2026, 08:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
-    {
-      "title": "Sorry We're Closed",
-      "image": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
-      "link": "https://store.epicgames.com/en-US/p/sorry-were-closed-724c86",
-      "start": "29 Oct 2026, 08:30 PM IST",
-      "end": "05 Nov 2026, 09:30 PM IST"
-    }
-  ]
+  "signature": "CURRENT:|UPCOMING:",
+  "updated_at": "2026-10-23T03:17:47.367616+00:00",
+  "current_games": [],
+  "upcoming_games": []
 }
