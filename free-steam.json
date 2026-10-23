@@ -1,18 +1,18 @@
 {
-  "signature": "Free to Keep::Popcorn & Premieren - Ausgehviertel::https://store.steampowered.com/app/5340370/Popcorn_Premieren_Ausgehviertel/?snr=1_7_7_2300_150_2|Free to Keep::Squad Weapon Skins - Recon Team Pack::https://store.steampowered.com/app/4841320/Squad_Weapon_Skins_Recon_Team_Pack/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-10-23T16:25:25.425193+00:00",
+  "signature": "Free to Keep::Popcorn & Premieren - Ausgehviertel::https://store.steampowered.com/app/5340370/Popcorn_Premieren_Ausgehviertel/?snr=1_7_7_2300_150_1|Free to Keep::Squad Weapon Skins - Recon Team Pack::https://store.steampowered.com/app/4841320/Squad_Weapon_Skins_Recon_Team_Pack/?snr=1_7_7_2300_150_2",
+  "updated_at": "2026-10-23T20:57:14.781686+00:00",
   "games": [
     {
       "type": "Free to Keep",
       "title": "Popcorn & Premieren - Ausgehviertel",
-      "link": "https://store.steampowered.com/app/5340370/Popcorn_Premieren_Ausgehviertel/?snr=1_7_7_2300_150_2",
+      "link": "https://store.steampowered.com/app/5340370/Popcorn_Premieren_Ausgehviertel/?snr=1_7_7_2300_150_1",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5340370/d86ca80108ef45e832ffefb4a43c913186269930/capsule_231x87.jpg?t=1792688582",
       "time": "Limited Time Offer"
     },
     {
       "type": "Free to Keep",
       "title": "Squad Weapon Skins - Recon Team Pack",
-      "link": "https://store.steampowered.com/app/4841320/Squad_Weapon_Skins_Recon_Team_Pack/?snr=1_7_7_2300_150_1",
+      "link": "https://store.steampowered.com/app/4841320/Squad_Weapon_Skins_Recon_Team_Pack/?snr=1_7_7_2300_150_2",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4841320/eee97d492cd05cbd64b9489e7a10b670c529aeaa/capsule_231x87.jpg?t=1792087188",
       "time": "Limited Time Offer"
     }
