@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **25 Oct 2026, 09:00 PM IST**  
+Last updated: **26 Oct 2026, 01:51 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -47,7 +47,6 @@ Source: Epic fallback from saved state, Steam live data
 
 ### Steam
 - **Popcorn & Premieren - Ausgehviertel** - Free to Keep ([Open](https://store.steampowered.com/app/5340370/Popcorn_Premieren_Ausgehviertel/?snr=1_7_7_2300_150_1))
-- **Squad Weapon Skins - Recon Team Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4841320/Squad_Weapon_Skins_Recon_Team_Pack/?snr=1_7_7_2300_150_2))
 <!-- README_AUTO_SECTION:END -->
 
 ---
