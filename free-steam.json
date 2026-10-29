@@ -1,19 +1,19 @@
 {
-  "signature": "Free to Keep::Hunting Simulator 3 - Classic American Hunter Pack::https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_1|Free to Keep::Popcorn & Premieren - Ausgehviertel::https://store.steampowered.com/app/5340370/Popcorn_Premieren_Ausgehviertel/?snr=1_7_7_2300_150_2",
-  "updated_at": "2026-10-29T12:14:49.811866+00:00",
+  "signature": "Free to Keep::Hexologic::https://store.steampowered.com/app/785890/Hexologic/?snr=1_7_7_2300_150_1|Free to Keep::Hunting Simulator 3 - Classic American Hunter Pack::https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_2",
+  "updated_at": "2026-10-29T22:24:55.318009+00:00",
   "games": [
     {
       "type": "Free to Keep",
-      "title": "Hunting Simulator 3 - Classic American Hunter Pack",
-      "link": "https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693960/9e3e8660dd02d739eaa1a36cfd398853b802f7f8/capsule_231x87.jpg?t=1793269525",
+      "title": "Hexologic",
+      "link": "https://store.steampowered.com/app/785890/Hexologic/?snr=1_7_7_2300_150_1",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/785890/capsule_231x87.jpg?t=1793292026",
       "time": "Limited Time Offer"
     },
     {
       "type": "Free to Keep",
-      "title": "Popcorn & Premieren - Ausgehviertel",
-      "link": "https://store.steampowered.com/app/5340370/Popcorn_Premieren_Ausgehviertel/?snr=1_7_7_2300_150_2",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/5340370/d86ca80108ef45e832ffefb4a43c913186269930/capsule_231x87.jpg?t=1792688582",
+      "title": "Hunting Simulator 3 - Classic American Hunter Pack",
+      "link": "https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_2",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693960/9e3e8660dd02d739eaa1a36cfd398853b802f7f8/capsule_231x87.jpg?t=1793269525",
       "time": "Limited Time Offer"
     }
   ]
