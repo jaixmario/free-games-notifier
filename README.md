@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **30 Oct 2026, 05:35 PM IST**  
+Last updated: **31 Oct 2026, 03:24 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -46,8 +46,9 @@ Source: Epic fallback from saved state, Steam live data
 - **Idle Champions of the Forgotten Realms** - starts `05 Nov 2026, 09:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms))
 
 ### Steam
+- **Asleep: Act 1** - Free to Keep ([Open](https://store.steampowered.com/app/1583850/Asleep_Act_1/?snr=1_7_7_2300_150_2))
 - **Hexologic** - Free to Keep ([Open](https://store.steampowered.com/app/785890/Hexologic/?snr=1_7_7_2300_150_1))
-- **Hunting Simulator 3 - Classic American Hunter Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_2))
+- **Hunting Simulator 3 - Classic American Hunter Pack** - Free to Keep ([Open](https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_3))
 <!-- README_AUTO_SECTION:END -->
 
 ---

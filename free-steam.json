@@ -1,7 +1,14 @@
 {
-  "signature": "Free to Keep::Hexologic::https://store.steampowered.com/app/785890/Hexologic/?snr=1_7_7_2300_150_1|Free to Keep::Hunting Simulator 3 - Classic American Hunter Pack::https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_2",
-  "updated_at": "2026-10-29T22:24:55.318009+00:00",
+  "signature": "Free to Keep::Asleep: Act 1::https://store.steampowered.com/app/1583850/Asleep_Act_1/?snr=1_7_7_2300_150_2|Free to Keep::Hexologic::https://store.steampowered.com/app/785890/Hexologic/?snr=1_7_7_2300_150_1|Free to Keep::Hunting Simulator 3 - Classic American Hunter Pack::https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_3",
+  "updated_at": "2026-10-30T21:54:57.503899+00:00",
   "games": [
+    {
+      "type": "Free to Keep",
+      "title": "Asleep: Act 1",
+      "link": "https://store.steampowered.com/app/1583850/Asleep_Act_1/?snr=1_7_7_2300_150_2",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1583850/f24ce1b7829455b3b0c481374c2f909fdcba766a/capsule_231x87_alt_assets_1.jpg?t=1793381725",
+      "time": "Limited Time Offer"
+    },
     {
       "type": "Free to Keep",
       "title": "Hexologic",
@@ -12,7 +19,7 @@
     {
       "type": "Free to Keep",
       "title": "Hunting Simulator 3 - Classic American Hunter Pack",
-      "link": "https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_2",
+      "link": "https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_3",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693960/9e3e8660dd02d739eaa1a36cfd398853b802f7f8/capsule_231x87.jpg?t=1793269525",
       "time": "Limited Time Offer"
     }
