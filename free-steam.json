@@ -1,13 +1,27 @@
 {
-  "signature": "Free to Keep::Hunting Simulator 3 - Classic American Hunter Pack::https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-11-03T00:28:03.945486+00:00",
+  "signature": "Free Weekend::Age of Wonders 4::https://store.steampowered.com/app/1669000|Free Weekend::PAYDAY 3::https://store.steampowered.com/app/1272080|Free to Keep::Hunting Simulator 3 - Classic American Hunter Pack::https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_1",
+  "updated_at": "2026-11-05T23:14:38.169627+00:00",
   "games": [
+    {
+      "type": "Free Weekend",
+      "title": "Age of Wonders 4",
+      "link": "https://store.steampowered.com/app/1669000",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/f10fa2e1be7fb905a35dfa4e/e6fd9ed9c9b1b546c6bdcb4b73fd5379bddccec0/vertical_capsule_english.jpg?t=1792700207",
+      "time": "Play for free until %1$s."
+    },
     {
       "type": "Free to Keep",
       "title": "Hunting Simulator 3 - Classic American Hunter Pack",
       "link": "https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_1",
       "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4693960/9e3e8660dd02d739eaa1a36cfd398853b802f7f8/capsule_231x87.jpg?t=1793269525",
       "time": "Limited Time Offer"
+    },
+    {
+      "type": "Free Weekend",
+      "title": "PAYDAY 3",
+      "link": "https://store.steampowered.com/app/1272080",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/2a3ec5a5b8f862bfae14b6a4/775999f3b9c37bf9bd9318ab6141cd50b6630aeb/vertical_capsule_english.png?t=1791403094",
+      "time": "Offer ends %1$s."
     }
   ]
 }
