@@ -1,13 +1,20 @@
 {
-  "signature": "Free to Keep::Hunting Simulator 3 - Classic American Hunter Pack::https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_1",
-  "updated_at": "2026-11-10T01:08:42.214441+00:00",
+  "signature": "Free Weekend::Cities: Skylines II::https://store.steampowered.com/app/949230|Free Weekend::Deep Rock Galactic: Rogue Core::https://store.steampowered.com/app/2605790",
+  "updated_at": "2026-11-12T19:30:49.902332+00:00",
   "games": [
     {
-      "type": "Free to Keep",
-      "title": "Hunting Simulator 3 - Classic American Hunter Pack",
-      "link": "https://store.steampowered.com/app/4693960/Hunting_Simulator_3_Classic_American_Hunter_Pack/?snr=1_7_7_2300_150_1",
-      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4693960/9e3e8660dd02d739eaa1a36cfd398853b802f7f8/capsule_231x87.jpg?t=1793269525",
-      "time": "Limited Time Offer"
+      "type": "Free Weekend",
+      "title": "Cities: Skylines II",
+      "link": "https://store.steampowered.com/app/949230",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/af6f278f03f0a63108561066/6bbbd5f0ced0c589ebfefa8e787cab4b043d5008/vertical_capsule_english.jpg?t=1792699970",
+      "time": "Play for free until %1$s."
+    },
+    {
+      "type": "Free Weekend",
+      "title": "Deep Rock Galactic: Rogue Core",
+      "link": "https://store.steampowered.com/app/2605790",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/57161cfcf4d5116246cdea9e/5c76f715b5fae6270c6ef965a0e38cf5650e3b6e/vertical_capsule_english.png?t=1793903078",
+      "time": "Play for free until %1$s."
     }
   ]
 }
