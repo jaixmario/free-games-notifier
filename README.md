@@ -35,14 +35,13 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **16 Nov 2026, 10:10 AM IST**  
+Last updated: **16 Nov 2026, 08:12 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
 - **Knightica** - free until `19 Nov 2026, 09:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/knightica-3be45c))
 
 ### Upcoming on Epic
-- **Alien: Isolation** - starts `19 Nov 2026, 09:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/alien-isolation))
 - **Mark of the Deep** - starts `19 Nov 2026, 09:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08))
 
 ### Steam

@@ -1,6 +1,6 @@
 {
-  "signature": "CURRENT:Knightica|UPCOMING:Alien: Isolation,Mark of the Deep",
-  "updated_at": "2026-11-12T19:30:36.942101+00:00",
+  "signature": "CURRENT:Knightica|UPCOMING:Mark of the Deep",
+  "updated_at": "2026-11-16T14:42:45.551042+00:00",
   "current_games": [
     {
       "title": "Knightica",
@@ -11,13 +11,6 @@
     }
   ],
   "upcoming_games": [
-    {
-      "title": "Alien: Isolation",
-      "image": "https://cdn1.epicgames.com/df37f065c3f14eadbf011177396e2966/offer/EGS_AlienIsolation_CreativeAssembly_S5-1920x1080-1cf3b9a86adcefeebf903451b1b3fb49.jpg",
-      "link": "https://store.epicgames.com/en-US/p/alien-isolation",
-      "start": "19 Nov 2026, 09:30 PM IST",
-      "end": "26 Nov 2026, 09:30 PM IST"
-    },
     {
       "title": "Mark of the Deep",
       "image": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
