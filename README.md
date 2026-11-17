@@ -35,7 +35,7 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **16 Nov 2026, 08:12 PM IST**  
+Last updated: **17 Nov 2026, 07:01 AM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
@@ -45,8 +45,7 @@ Source: Epic fallback from saved state, Steam live data
 - **Mark of the Deep** - starts `19 Nov 2026, 09:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08))
 
 ### Steam
-- **Cities: Skylines II** - Free Weekend ([Open](https://store.steampowered.com/app/949230))
-- **Deep Rock Galactic: Rogue Core** - Free Weekend ([Open](https://store.steampowered.com/app/2605790))
+- No Steam freebies found.
 <!-- README_AUTO_SECTION:END -->
 
 ---
