@@ -1,5 +1,13 @@
 {
-  "signature": "",
-  "updated_at": "2026-11-17T01:31:44.838958+00:00",
-  "games": []
+  "signature": "Free Weekend::Crusader Kings III::https://store.steampowered.com/app/1158310",
+  "updated_at": "2026-11-20T00:16:46.367241+00:00",
+  "games": [
+    {
+      "type": "Free Weekend",
+      "title": "Crusader Kings III",
+      "link": "https://store.steampowered.com/app/1158310",
+      "image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/spotlights/bec5ffadaa58d6e066814aab/0d6b876792ecc7a79408a003e1f4ada4c37f3eb2/vertical_capsule_english.png?t=1794422944",
+      "time": "Offer ends %1$s."
+    }
+  ]
 }

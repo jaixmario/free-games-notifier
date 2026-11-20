@@ -1,29 +1,29 @@
 {
-  "signature": "CURRENT:Knightica|UPCOMING:Firestone – Idle Clicker Online RPG,Mark of the Deep",
-  "updated_at": "2026-11-18T15:03:22.602141+00:00",
+  "signature": "CURRENT:Mark of the Deep|UPCOMING:Bread and Fred,Firestone – Idle Clicker Online RPG",
+  "updated_at": "2026-11-20T00:16:37.893053+00:00",
   "current_games": [
-    {
-      "title": "Knightica",
-      "image": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png",
-      "link": "https://store.epicgames.com/en-US/p/knightica-3be45c",
-      "start": "12 Nov 2026, 09:30 PM IST",
-      "end": "19 Nov 2026, 09:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
-    {
-      "title": "Firestone – Idle Clicker Online RPG",
-      "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-i52vr.jpg",
-      "link": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
-      "start": "26 Nov 2026, 09:30 PM IST",
-      "end": "03 Dec 2026, 09:30 PM IST"
-    },
     {
       "title": "Mark of the Deep",
       "image": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
       "link": "https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08",
       "start": "19 Nov 2026, 09:30 PM IST",
       "end": "26 Nov 2026, 09:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Bread and Fred",
+      "image": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
+      "link": "https://store.epicgames.com/en-US/p/bread-and-fred-1db362",
+      "start": "26 Nov 2026, 09:30 PM IST",
+      "end": "03 Dec 2026, 09:30 PM IST"
+    },
+    {
+      "title": "Firestone – Idle Clicker Online RPG",
+      "image": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1inmf.jpg",
+      "link": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
+      "start": "26 Nov 2026, 09:30 PM IST",
+      "end": "03 Dec 2026, 09:30 PM IST"
     }
   ]
 }
