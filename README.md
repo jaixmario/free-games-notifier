@@ -35,15 +35,15 @@ Version 2.7 focuses on cleaner test runs, safer JSON state handling, and quieter
 <!-- README_AUTO_SECTION:START -->
 ## Free Games Right Now
 
-Last updated: **26 Nov 2026, 07:00 AM IST**  
+Last updated: **26 Nov 2026, 09:51 PM IST**  
 Source: Epic fallback from saved state, Steam live data
 
 ### Epic Games
-- **Mark of the Deep** - free until `26 Nov 2026, 09:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08))
+- **Bread and Fred** - free until `03 Dec 2026, 09:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/bread-and-fred-1db362))
+- **Firestone – Idle Clicker Online RPG** - free until `03 Dec 2026, 09:30 PM IST` ([Claim](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b))
 
 ### Upcoming on Epic
-- **Bread and Fred** - starts `26 Nov 2026, 09:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/bread-and-fred-1db362))
-- **Firestone – Idle Clicker Online RPG** - starts `26 Nov 2026, 09:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b))
+- **Strange Antiquities** - starts `03 Dec 2026, 09:30 PM IST` ([Store page](https://store.epicgames.com/en-US/p/strange-antiquities-e37660))
 
 ### Steam
 - No Steam freebies found.

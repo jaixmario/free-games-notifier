@@ -1,16 +1,7 @@
 {
-  "signature": "CURRENT:Mark of the Deep|UPCOMING:Bread and Fred,Firestone – Idle Clicker Online RPG",
-  "updated_at": "2026-11-20T00:16:37.893053+00:00",
+  "signature": "CURRENT:Bread and Fred,Firestone – Idle Clicker Online RPG|UPCOMING:Strange Antiquities",
+  "updated_at": "2026-11-26T16:21:02.255170+00:00",
   "current_games": [
-    {
-      "title": "Mark of the Deep",
-      "image": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
-      "link": "https://store.epicgames.com/en-US/p/mark-of-the-deep-f7dc08",
-      "start": "19 Nov 2026, 09:30 PM IST",
-      "end": "26 Nov 2026, 09:30 PM IST"
-    }
-  ],
-  "upcoming_games": [
     {
       "title": "Bread and Fred",
       "image": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
@@ -24,6 +15,15 @@
       "link": "https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b",
       "start": "26 Nov 2026, 09:30 PM IST",
       "end": "03 Dec 2026, 09:30 PM IST"
+    }
+  ],
+  "upcoming_games": [
+    {
+      "title": "Strange Antiquities",
+      "image": "https://cdn1.epicgames.com/spt-assets/d0e3b7c3690c485ca7a435d298262ab2/strange-antiquities-1kl5s.png",
+      "link": "https://store.epicgames.com/en-US/p/strange-antiquities-e37660",
+      "start": "03 Dec 2026, 09:30 PM IST",
+      "end": "10 Dec 2026, 09:30 PM IST"
     }
   ]
 }
